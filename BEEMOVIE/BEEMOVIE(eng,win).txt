@@ -1,0 +1,12213 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING Notepad.exe
+ENTER
+DELAY 500
+STRING Bee Movie
+ENTER
+HOME
+STRING By Jerry Seinfeld
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING NARRATOR:
+ENTER
+HOME
+STRING (Black screen with text; The sound of buzzing bees can be heard)
+ENTER
+HOME
+STRING According to all known laws
+ENTER
+HOME
+STRING of aviation,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING there is no way a bee
+ENTER
+HOME
+STRING should be able to fly.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Its wings are too small to get
+ENTER
+HOME
+STRING its fat little body off the ground.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING The bee, of course, flies anyway
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING because bees don't care
+ENTER
+HOME
+STRING what humans think is impossible.
+ENTER
+HOME
+STRING BARRY BENSON:
+ENTER
+HOME
+STRING (Barry is picking out a shirt)
+ENTER
+HOME
+STRING Yellow, black. Yellow, black.
+ENTER
+HOME
+STRING Yellow, black. Yellow, black.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Ooh, black and yellow!
+ENTER
+HOME
+STRING Let's shake it up a little.
+ENTER
+HOME
+STRING JANET BENSON:
+ENTER
+HOME
+STRING Barry! Breakfast is ready!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Coming!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Hang on a second.
+ENTER
+HOME
+STRING (Barry uses his antenna like a phone)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Hello?
+ENTER
+HOME
+STRING ADAM FLAYMAN:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (Through phone)
+ENTER
+HOME
+STRING - Barry?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Adam?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Can you believe this is happening?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I can't. I'll pick you up.
+ENTER
+HOME
+STRING (Barry flies down the stairs)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING MARTIN BENSON:
+ENTER
+HOME
+STRING Looking sharp.
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING Use the stairs. Your father
+ENTER
+HOME
+STRING paid good money for those.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Sorry. I'm excited.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING Here's the graduate.
+ENTER
+HOME
+STRING We're very proud of you, son.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING A perfect report card, all B's.
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING Very proud.
+ENTER
+HOME
+STRING (Rubs Barry's hair)
+ENTER
+HOME
+STRING BARRY=
+ENTER
+HOME
+STRING Ma! I got a thing going here.
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING - You got lint on your fuzz.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Ow! That's me!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING - Wave to us! We'll be in row 118,000.
+ENTER
+HOME
+STRING - Bye!
+ENTER
+HOME
+STRING (Barry flies out the door)
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING Barry, I told you,
+ENTER
+HOME
+STRING stop flying in the house!
+ENTER
+HOME
+STRING (Barry drives through the hive,and is waved at by Adam who is reading a
+ENTER
+HOME
+STRING newspaper)
+ENTER
+HOME
+STRING BARRY==
+ENTER
+HOME
+STRING - Hey, Adam.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Hey, Barry.
+ENTER
+HOME
+STRING (Adam gets in Barry's car)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Is that fuzz gel?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - A little. Special day, graduation.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Never thought I'd make it.
+ENTER
+HOME
+STRING (Barry pulls away from the house and continues driving)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Three days grade school,
+ENTER
+HOME
+STRING three days high school...
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Those were awkward.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Three days college. I'm glad I took
+ENTER
+HOME
+STRING a day and hitchhiked around the hive.
+ENTER
+HOME
+STRING ADAM==
+ENTER
+HOME
+STRING You did come back different.
+ENTER
+HOME
+STRING (Barry and Adam pass by Artie, who is jogging)
+ENTER
+HOME
+STRING ARTIE:
+ENTER
+HOME
+STRING - Hi, Barry!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Artie, growing a mustache? Looks good.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Hear about Frankie?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Yeah.
+ENTER
+HOME
+STRING ADAM==
+ENTER
+HOME
+STRING - You going to the funeral?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - No, I'm not going to his funeral.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Everybody knows,
+ENTER
+HOME
+STRING sting someone, you die.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Don't waste it on a squirrel.
+ENTER
+HOME
+STRING Such a hothead.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING I guess he could have
+ENTER
+HOME
+STRING just gotten out of the way.
+ENTER
+HOME
+STRING (The car does a barrel roll on the loop-shaped bridge and lands on the
+ENTER
+HOME
+STRING highway)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I love this incorporating
+ENTER
+HOME
+STRING an amusement park into our regular day.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I guess that's why they say we don't need vacations.
+ENTER
+HOME
+STRING (Barry parallel parks the car and together they fly over the graduating
+ENTER
+HOME
+STRING students)
+ENTER
+HOME
+STRING Boy, quite a bit of pomp...
+ENTER
+HOME
+STRING under the circumstances.
+ENTER
+HOME
+STRING (Barry and Adam sit down and put on their hats)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Well, Adam, today we are men.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - We are!
+ENTER
+HOME
+STRING BARRY=
+ENTER
+HOME
+STRING - Bee-men.
+ENTER
+HOME
+STRING =ADAM=
+ENTER
+HOME
+STRING - Amen!
+ENTER
+HOME
+STRING BARRY AND ADAM:
+ENTER
+HOME
+STRING Hallelujah!
+ENTER
+HOME
+STRING (Barry and Adam both have a happy spasm)
+ENTER
+HOME
+STRING ANNOUNCER:
+ENTER
+HOME
+STRING Students, faculty, distinguished bees,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING please welcome Dean Buzzwell.
+ENTER
+HOME
+STRING DEAN BUZZWELL:
+ENTER
+HOME
+STRING Welcome, New Hive Oity
+ENTER
+HOME
+STRING graduating class of...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING ...9:
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING That concludes our ceremonies.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING And begins your career
+ENTER
+HOME
+STRING at Honex Industries!
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Will we pick our job today?
+ENTER
+HOME
+STRING (Adam and Barry get into a tour bus)
+ENTER
+HOME
+STRING BARRY=
+ENTER
+HOME
+STRING I heard it's just orientation.
+ENTER
+HOME
+STRING (Tour buses rise out of the ground and the students are automatically
+ENTER
+HOME
+STRING loaded into the buses)
+ENTER
+HOME
+STRING TOUR GUIDE:
+ENTER
+HOME
+STRING Heads up! Here we go.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING ANNOUNCER:
+ENTER
+HOME
+STRING Keep your hands and antennas
+ENTER
+HOME
+STRING inside the tram at all times.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Wonder what it'll be like?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - A little scary.
+ENTER
+HOME
+STRING TOUR GUIDE==
+ENTER
+HOME
+STRING Welcome to Honex,
+ENTER
+HOME
+STRING a division of Honesco
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING and a part of the Hexagon Group.
+ENTER
+HOME
+STRING Barry:
+ENTER
+HOME
+STRING This is it!
+ENTER
+HOME
+STRING BARRY AND ADAM:
+ENTER
+HOME
+STRING Wow.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Wow.
+ENTER
+HOME
+STRING (The bus drives down a road an on either side are the Bee's massive
+ENTER
+HOME
+STRING complicated Honey-making machines)
+ENTER
+HOME
+STRING TOUR GUIDE:
+ENTER
+HOME
+STRING We know that you, as a bee,
+ENTER
+HOME
+STRING have worked your whole life
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING to get to the point where you
+ENTER
+HOME
+STRING can work for your whole life.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Honey begins when our valiant Pollen
+ENTER
+HOME
+STRING Jocks bring the nectar to the hive.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Our top-secret formula
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING is automatically color-corrected,
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING scent-adjusted and bubble-contoured
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING into this soothing sweet syrup
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING with its distinctive
+ENTER
+HOME
+STRING golden glow you know as...
+ENTER
+HOME
+STRING EVERYONE ON BUS:
+ENTER
+HOME
+STRING Honey!
+ENTER
+HOME
+STRING (The guide has been collecting honey into a bottle and she throws it into
+ENTER
+HOME
+STRING the crowd on the bus and it is caught by a girl in the back)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - That girl was hot.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - She's my cousin!
+ENTER
+HOME
+STRING ADAM==
+ENTER
+HOME
+STRING - She is?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Yes, we're all cousins.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Right. You're right.
+ENTER
+HOME
+STRING TOUR GUIDE:
+ENTER
+HOME
+STRING - At Honex, we constantly strive
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING to improve every aspect
+ENTER
+HOME
+STRING of bee existence.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING These bees are stress-testing
+ENTER
+HOME
+STRING a new helmet technology.
+ENTER
+HOME
+STRING (The bus passes by a Bee wearing a helmet who is being smashed into the
+ENTER
+HOME
+STRING ground with fly-swatters, newspapers and boots. He lifts a thumbs up but
+ENTER
+HOME
+STRING you can hear him groan)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING ADAM==
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING - What do you think he makes?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Not enough.
+ENTER
+HOME
+STRING TOUR GUIDE:
+ENTER
+HOME
+STRING Here we have our latest advancement,
+ENTER
+HOME
+STRING the Krelman.
+ENTER
+HOME
+STRING (They pass by a turning wheel with Bees standing on pegs, who are each
+ENTER
+HOME
+STRING wearing a finger-shaped hat)
+ENTER
+HOME
+STRING Barry:
+ENTER
+HOME
+STRING - Wow, What does that do?
+ENTER
+HOME
+STRING TOUR GUIDE:
+ENTER
+HOME
+STRING - Catches that little strand of honey
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING that hangs after you pour it.
+ENTER
+HOME
+STRING Saves us millions.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING (Intrigued)
+ENTER
+HOME
+STRING Can anyone work on the Krelman?
+ENTER
+HOME
+STRING TOUR GUIDE:
+ENTER
+HOME
+STRING Of course. Most bee jobs are
+ENTER
+HOME
+STRING small ones.
+ENTER
+HOME
+STRING But bees know that every small job,
+ENTER
+HOME
+STRING if it's done well, means a lot.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING But choose carefully
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING because you'll stay in the job
+ENTER
+HOME
+STRING you pick for the rest of your life.
+ENTER
+HOME
+STRING (Everyone claps except for Barry)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING The same job the rest of your life?
+ENTER
+HOME
+STRING I didn't know that.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING What's the difference?
+ENTER
+HOME
+STRING TOUR GUIDE:
+ENTER
+HOME
+STRING You'll be happy to know that bees,
+ENTER
+HOME
+STRING as a species, haven't had one day off
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING in 27 million years.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Upset)
+ENTER
+HOME
+STRING So you'll just work us to death?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We'll sure try.
+ENTER
+HOME
+STRING (Everyone on the bus laughs except Barry. Barry and Adam are walking back
+ENTER
+HOME
+STRING home together)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Wow! That blew my mind!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING "What's the difference?"
+ENTER
+HOME
+STRING How can you say that?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING One job forever?
+ENTER
+HOME
+STRING That's an insane choice to have to make.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING I'm relieved. Now we only have
+ENTER
+HOME
+STRING to make one decision in life.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING But, Adam, how could they
+ENTER
+HOME
+STRING never have told us that?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Why would you question anything?
+ENTER
+HOME
+STRING We're bees.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We're the most perfectly
+ENTER
+HOME
+STRING functioning society on Earth.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING You ever think maybe things
+ENTER
+HOME
+STRING work a little too well here?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Like what? Give me one example.
+ENTER
+HOME
+STRING (Barry and Adam stop walking and it is revealed to the audience that
+ENTER
+HOME
+STRING hundreds of cars are speeding by and narrowly missing them in perfect
+ENTER
+HOME
+STRING unison)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I don't know. But you know
+ENTER
+HOME
+STRING what I'm talking about.
+ENTER
+HOME
+STRING ANNOUNCER:
+ENTER
+HOME
+STRING Please clear the gate.
+ENTER
+HOME
+STRING Royal Nectar Force on approach.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Wait a second. Check it out.
+ENTER
+HOME
+STRING (The Pollen jocks fly in, circle around and landing in line)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Hey, those are Pollen Jocks!
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Wow.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I've never seen them this close.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING They know what it's like
+ENTER
+HOME
+STRING outside the hive.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Yeah, but some don't come back.
+ENTER
+HOME
+STRING GIRL BEES:
+ENTER
+HOME
+STRING - Hey, Jocks!
+ENTER
+HOME
+STRING - Hi, Jocks!
+ENTER
+HOME
+STRING (The Pollen Jocks hook up their backpacks to machines that pump the nectar
+ENTER
+HOME
+STRING to trucks, which drive away)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING LOU LO DUVA:
+ENTER
+HOME
+STRING You guys did great!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You're monsters!
+ENTER
+HOME
+STRING You're sky freaks!
+ENTER
+HOME
+STRING I love it!
+ENTER
+HOME
+STRING (Punching the Pollen Jocks in joy)
+ENTER
+HOME
+STRING I love it!
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - I wonder where they were.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I don't know.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Their day's not planned.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Outside the hive, flying who knows
+ENTER
+HOME
+STRING where, doing who knows what.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You can't just decide to be a Pollen
+ENTER
+HOME
+STRING Jock. You have to be bred for that.
+ENTER
+HOME
+STRING ADAM==
+ENTER
+HOME
+STRING Right.
+ENTER
+HOME
+STRING (Barry and Adam are covered in some pollen that floated off of the Pollen
+ENTER
+HOME
+STRING Jocks)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Look at that. That's more pollen
+ENTER
+HOME
+STRING than you and I will see in a lifetime.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING It's just a status symbol.
+ENTER
+HOME
+STRING Bees make too much of it.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Perhaps. Unless you're wearing it
+ENTER
+HOME
+STRING and the ladies see you wearing it.
+ENTER
+HOME
+STRING (Barry waves at 2 girls standing a little away from them)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING ADAM==
+ENTER
+HOME
+STRING Those ladies?
+ENTER
+HOME
+STRING Aren't they our cousins too?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Distant. Distant.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING Look at these two.
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING - Couple of Hive Harrys.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING - Let's have fun with them.
+ENTER
+HOME
+STRING GIRL BEE #1:
+ENTER
+HOME
+STRING It must be dangerous
+ENTER
+HOME
+STRING being a Pollen Jock.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Yeah. Once a bear pinned me
+ENTER
+HOME
+STRING against a mushroom!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING He had a paw on my throat,
+ENTER
+HOME
+STRING and with the other, he was slapping me!
+ENTER
+HOME
+STRING (Slaps Adam with his hand to represent his scenario)
+ENTER
+HOME
+STRING GIRL BEE #2:
+ENTER
+HOME
+STRING - Oh, my!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I never thought I'd knock him out.
+ENTER
+HOME
+STRING GIRL BEE #1:
+ENTER
+HOME
+STRING (Looking at Adam)
+ENTER
+HOME
+STRING What were you doing during this?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Obviously I was trying to alert the authorities.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I can autograph that.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (The pollen jocks walk up to Barry and Adam, they pretend that Barry and
+ENTER
+HOME
+STRING Adam really are pollen jocks.)
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING A little gusty out there today,
+ENTER
+HOME
+STRING wasn't it, comrades?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Yeah. Gusty.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING We're hitting a sunflower patch
+ENTER
+HOME
+STRING six miles from here tomorrow.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Six miles, huh?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Barry!
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING A puddle jump for us,
+ENTER
+HOME
+STRING but maybe you're not up for it.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Maybe I am.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - You are not!
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING We're going 0900 at J-Gate.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING What do you think, buzzy-boy?
+ENTER
+HOME
+STRING Are you bee enough?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I might be. It all depends
+ENTER
+HOME
+STRING on what 0900 means.
+ENTER
+HOME
+STRING (The scene cuts to Barry looking out on the hive-city from his balcony at
+ENTER
+HOME
+STRING night)
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Hey, Honex!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Dad, you surprised me.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING You decide what you're interested in?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Well, there's a lot of choices.
+ENTER
+HOME
+STRING - But you only get one.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Do you ever get bored
+ENTER
+HOME
+STRING doing the same job every day?
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING Son, let me tell you about stirring.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You grab that stick, and you just
+ENTER
+HOME
+STRING move it around, and you stir it around.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You get yourself into a rhythm.
+ENTER
+HOME
+STRING It's a beautiful thing.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING You know, Dad,
+ENTER
+HOME
+STRING the more I think about it,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING maybe the honey field
+ENTER
+HOME
+STRING just isn't right for me.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING You were thinking of what,
+ENTER
+HOME
+STRING making balloon animals?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING That's a bad job
+ENTER
+HOME
+STRING for a guy with a stinger.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Janet, your son's not sure
+ENTER
+HOME
+STRING he wants to go into honey!
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING - Barry, you are so funny sometimes.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I'm not trying to be funny.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING You're not funny! You're going
+ENTER
+HOME
+STRING into honey. Our son, the stirrer!
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING - You're gonna be a stirrer?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - No one's listening to me!
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING Wait till you see the sticks I have.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I could say anything right now.
+ENTER
+HOME
+STRING I'm gonna get an ant tattoo!
+ENTER
+HOME
+STRING (Barry's parents don't listen to him and continue to ramble on)
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING Let's open some honey and celebrate!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Maybe I'll pierce my thorax.
+ENTER
+HOME
+STRING Shave my antennae.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Shack up with a grasshopper. Get
+ENTER
+HOME
+STRING a gold tooth and call everybody "dawg"!
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING I'm so proud.
+ENTER
+HOME
+STRING (The scene cuts to Barry and Adam waiting in line to get a job)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - We're starting work today!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Today's the day.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Come on! All the good jobs
+ENTER
+HOME
+STRING will be gone.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Yeah, right.
+ENTER
+HOME
+STRING JOB LISTER:
+ENTER
+HOME
+STRING Pollen counting, stunt bee, pouring,
+ENTER
+HOME
+STRING stirrer, front desk, hair removal...
+ENTER
+HOME
+STRING BEE IN FRONT OF LINE:
+ENTER
+HOME
+STRING - Is it still available?
+ENTER
+HOME
+STRING JOB LISTER:
+ENTER
+HOME
+STRING - Hang on. Two left!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING One of them's yours! Congratulations!
+ENTER
+HOME
+STRING Step to the side.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - What'd you get?
+ENTER
+HOME
+STRING BEE IN FRONT OF LINE:
+ENTER
+HOME
+STRING - Picking crud out. Stellar!
+ENTER
+HOME
+STRING (He walks away)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Wow!
+ENTER
+HOME
+STRING JOB LISTER:
+ENTER
+HOME
+STRING Couple of newbies?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Yes, sir! Our first day! We are ready!
+ENTER
+HOME
+STRING JOB LISTER:
+ENTER
+HOME
+STRING Make your choice.
+ENTER
+HOME
+STRING (Adam and Barry look up at the job board. There are hundreds of constantly
+ENTER
+HOME
+STRING changing panels that contain available or unavailable jobs. It looks very
+ENTER
+HOME
+STRING confusing)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - You want to go first?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - No, you go.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Oh, my. What's available?
+ENTER
+HOME
+STRING JOB LISTER:
+ENTER
+HOME
+STRING Restroom attendant's open,
+ENTER
+HOME
+STRING not for the reason you think.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Any chance of getting the Krelman?
+ENTER
+HOME
+STRING JOB LISTER:
+ENTER
+HOME
+STRING - Sure, you're on.
+ENTER
+HOME
+STRING (Puts the Krelman finger-hat on Adam's head)
+ENTER
+HOME
+STRING (Suddenly the sign for Krelman closes out)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I'm sorry, the Krelman just closed out.
+ENTER
+HOME
+STRING (Takes Adam's hat off)
+ENTER
+HOME
+STRING Wax monkey's always open.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING The Krelman opened up again.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING What happened?
+ENTER
+HOME
+STRING JOB LISTER:
+ENTER
+HOME
+STRING A bee died. Makes an opening. See?
+ENTER
+HOME
+STRING He's dead. Another dead one.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Deady. Deadified. Two more dead.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Dead from the neck up.
+ENTER
+HOME
+STRING Dead from the neck down. That's life!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Oh, this is so hard!
+ENTER
+HOME
+STRING (Barry remembers what the Pollen Jock offered him and he flies off)
+ENTER
+HOME
+STRING Heating, cooling,
+ENTER
+HOME
+STRING stunt bee, pourer, stirrer,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING humming, inspector number seven,
+ENTER
+HOME
+STRING lint coordinator, stripe supervisor,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING mite wrangler. Barry, what
+ENTER
+HOME
+STRING do you think I should... Barry?
+ENTER
+HOME
+STRING (Adam turns around and sees Barry flying away)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Barry!
+ENTER
+HOME
+STRING POLLEN JOCK:
+ENTER
+HOME
+STRING All right, we've got the sunflower patch
+ENTER
+HOME
+STRING in quadrant nine...
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING (Through phone)
+ENTER
+HOME
+STRING What happened to you?
+ENTER
+HOME
+STRING Where are you?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I'm going out.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Out? Out where?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Out there.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Oh, no!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I have to, before I go
+ENTER
+HOME
+STRING to work for the rest of my life.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING You're gonna die! You're crazy!
+ENTER
+HOME
+STRING (Barry hangs up)
+ENTER
+HOME
+STRING Hello?
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING Another call coming in.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING If anyone's feeling brave,
+ENTER
+HOME
+STRING there's a Korean deli on 83rd
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING that gets their roses today.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Hey, guys.
+ENTER
+HOME
+STRING POLLEN JOCK #1 ==
+ENTER
+HOME
+STRING - Look at that.
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING - Isn't that the kid we saw yesterday?
+ENTER
+HOME
+STRING LOU LO DUVA:
+ENTER
+HOME
+STRING Hold it, son, flight deck's restricted.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING It's OK, Lou. We're gonna take him up.
+ENTER
+HOME
+STRING (Puts hand on Barry's shoulder)
+ENTER
+HOME
+STRING LOU LO DUVA:
+ENTER
+HOME
+STRING (To Barry) Really? Feeling lucky, are you?
+ENTER
+HOME
+STRING BEE WITH CLIPBOARD:
+ENTER
+HOME
+STRING (To Barry) Sign here, here. Just initial that.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Thank you.
+ENTER
+HOME
+STRING LOU LO DUVA:
+ENTER
+HOME
+STRING - OK.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You got a rain advisory today,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING and as you all know,
+ENTER
+HOME
+STRING bees cannot fly in rain.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING So be careful. As always,
+ENTER
+HOME
+STRING watch your brooms,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING hockey sticks, dogs,
+ENTER
+HOME
+STRING birds, bears and bats.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Also, I got a couple of reports
+ENTER
+HOME
+STRING of root beer being poured on us.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Murphy's in a home because of it,
+ENTER
+HOME
+STRING babbling like a cicada!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - That's awful.
+ENTER
+HOME
+STRING LOU LO DUVA:
+ENTER
+HOME
+STRING (Still talking through megaphone)
+ENTER
+HOME
+STRING - And a reminder for you rookies,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING bee law number one,
+ENTER
+HOME
+STRING absolutely no talking to humans!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING All right, launch positions!
+ENTER
+HOME
+STRING POLLEN JOCKS:
+ENTER
+HOME
+STRING (The Pollen Jocks run into formation)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Buzz, buzz, buzz, buzz! Buzz, buzz,
+ENTER
+HOME
+STRING buzz, buzz! Buzz, buzz, buzz, buzz!
+ENTER
+HOME
+STRING LOU LU DUVA:
+ENTER
+HOME
+STRING Black and yellow!
+ENTER
+HOME
+STRING POLLEN JOCKS:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Hello!
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING (To Barry)You ready for this, hot shot?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Yeah. Yeah, bring it on.
+ENTER
+HOME
+STRING POLLEN JOCK's:
+ENTER
+HOME
+STRING Wind, check.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Antennae, check.
+ENTER
+HOME
+STRING - Nectar pack, check.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Wings, check.
+ENTER
+HOME
+STRING - Stinger, check.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Scared out of my shorts, check.
+ENTER
+HOME
+STRING LOU LO DUVA:
+ENTER
+HOME
+STRING OK, ladies,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING let's move it out!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Pound those petunias,
+ENTER
+HOME
+STRING you striped stem-suckers!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING All of you, drain those flowers!
+ENTER
+HOME
+STRING (The pollen jocks fly out of the hive)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Wow! I'm out!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I can't believe I'm out!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING So blue.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I feel so fast and free!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Box kite!
+ENTER
+HOME
+STRING (Barry flies through the kite)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Wow!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Flowers!
+ENTER
+HOME
+STRING (A pollen jock puts on some high tech goggles that shows flowers similar to
+ENTER
+HOME
+STRING heat sink goggles.)
+ENTER
+HOME
+STRING POLLEN JOCK:
+ENTER
+HOME
+STRING This is Blue Leader.
+ENTER
+HOME
+STRING We have roses visual.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Bring it around 30 degrees and hold.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Roses!
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING 30 degrees, roger. Bringing it around.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Stand to the side, kid.
+ENTER
+HOME
+STRING It's got a bit of a kick.
+ENTER
+HOME
+STRING (The pollen jock fires a high-tech gun at the flower, shooting tubes that
+ENTER
+HOME
+STRING suck up the nectar from the flower and collects it into a pouch on the gun)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING That is one nectar collector!
+ENTER
+HOME
+STRING POLLEN JOCK #1==
+ENTER
+HOME
+STRING - Ever see pollination up close?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - No, sir.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (Barry and the Pollen jock fly over the field, the pollen jock sprinkles
+ENTER
+HOME
+STRING pollen as he goes)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I pick up some pollen here, sprinkle it
+ENTER
+HOME
+STRING over here. Maybe a dash over there,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING a pinch on that one.
+ENTER
+HOME
+STRING See that? It's a little bit of magic.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING That's amazing. Why do we do that?
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING That's pollen power. More pollen, more
+ENTER
+HOME
+STRING flowers, more nectar, more honey for us.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Cool.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING I'm picking up a lot of bright yellow.
+ENTER
+HOME
+STRING could be daisies. Don't we need those?
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING Copy that visual.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Wait. One of these flowers
+ENTER
+HOME
+STRING seems to be on the move.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING Say again? You're reporting
+ENTER
+HOME
+STRING a moving flower?
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING Affirmative.
+ENTER
+HOME
+STRING (The Pollen jocks land near the "flowers" which, to the audience are
+ENTER
+HOME
+STRING obviously just tennis balls)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING (In the distance) That was on the line!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING This is the coolest. What is it?
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING I don't know, but I'm loving this color.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING It smells good.
+ENTER
+HOME
+STRING Not like a flower, but I like it.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING Yeah, fuzzy.
+ENTER
+HOME
+STRING (Sticks his hand on the ball but it gets stuck)
+ENTER
+HOME
+STRING POLLEN JOCK #3==
+ENTER
+HOME
+STRING Chemical-y.
+ENTER
+HOME
+STRING (The pollen jock finally gets his hand free from the tennis ball)
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING Careful, guys. It's a little grabby.
+ENTER
+HOME
+STRING (The pollen jocks turn around and see Barry lying his entire body on top of
+ENTER
+HOME
+STRING one of the tennis balls)
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING My sweet lord of bees!
+ENTER
+HOME
+STRING POLLEN JOCK #3:
+ENTER
+HOME
+STRING Candy-brain, get off there!
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING (Pointing upwards)
+ENTER
+HOME
+STRING Problem!
+ENTER
+HOME
+STRING (A human hand reaches down and grabs the tennis ball that Barry is stuck
+ENTER
+HOME
+STRING to)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Guys!
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING - This could be bad.
+ENTER
+HOME
+STRING POLLEN JOCK #3:
+ENTER
+HOME
+STRING Affirmative.
+ENTER
+HOME
+STRING (Vanessa Bloome starts bouncing the tennis ball, not knowing Barry is stick
+ENTER
+HOME
+STRING to it)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY==
+ENTER
+HOME
+STRING Very close.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Gonna hurt.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Mama's little boy.
+ENTER
+HOME
+STRING (Barry is being hit back and forth by two humans playing tennis. He is
+ENTER
+HOME
+STRING still stuck to the ball)
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING You are way out of position, rookie!
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Coming in at you like a MISSILE!
+ENTER
+HOME
+STRING (Barry flies past the pollen jocks, still stuck to the ball)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (In slow motion)
+ENTER
+HOME
+STRING Help me!
+ENTER
+HOME
+STRING POLLEN JOCK #2:
+ENTER
+HOME
+STRING I don't think these are flowers.
+ENTER
+HOME
+STRING POLLEN JOCK #3:
+ENTER
+HOME
+STRING - Should we tell him?
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING - I think he knows.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What is this?!
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Match point!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You can start packing up, honey,
+ENTER
+HOME
+STRING because you're about to EAT IT!
+ENTER
+HOME
+STRING (A pollen jock coughs which confused Ken and he hits the ball the wrong way
+ENTER
+HOME
+STRING with Barry stuck to it and it goes flying into the city)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Yowser!
+ENTER
+HOME
+STRING (Barry bounces around town and gets stuck in the engine of a car. He flies
+ENTER
+HOME
+STRING into the air conditioner and sees a bug that was frozen in there)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Ew, gross.
+ENTER
+HOME
+STRING (The man driving the car turns on the air conditioner which blows Barry
+ENTER
+HOME
+STRING into the car)
+ENTER
+HOME
+STRING GIRL IN CAR:
+ENTER
+HOME
+STRING There's a bee in the car!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Do something!
+ENTER
+HOME
+STRING DAD DRIVING CAR:
+ENTER
+HOME
+STRING - I'm driving!
+ENTER
+HOME
+STRING BABY GIRL:
+ENTER
+HOME
+STRING (Waving at Barry)
+ENTER
+HOME
+STRING - Hi, bee.
+ENTER
+HOME
+STRING (Barry smiles and waves at the baby girl)
+ENTER
+HOME
+STRING GUY IN BACK OF CAR:
+ENTER
+HOME
+STRING - He's back here!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING He's going to sting me!
+ENTER
+HOME
+STRING GIRL IN CAR:
+ENTER
+HOME
+STRING Nobody move. If you don't move,
+ENTER
+HOME
+STRING he won't sting you. Freeze!
+ENTER
+HOME
+STRING (Barry freezes as well, hovering in the middle of the car)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING GRANDMA IN CAR==
+ENTER
+HOME
+STRING He blinked!
+ENTER
+HOME
+STRING (The grandma whips out some bee-spray and sprays everywhere in the car,
+ENTER
+HOME
+STRING climbing into the front seat, still trying to spray Barry)
+ENTER
+HOME
+STRING GIRL IN CAR:
+ENTER
+HOME
+STRING Spray him, Granny!
+ENTER
+HOME
+STRING DAD DRIVING THE CAR:
+ENTER
+HOME
+STRING What are you doing?!
+ENTER
+HOME
+STRING (Barry escapes the car through the air conditioner and is flying high above
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING the ground, safe.)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Wow... the tension level
+ENTER
+HOME
+STRING out here is unbelievable.
+ENTER
+HOME
+STRING (Barry sees that storm clouds are gathering and he can see rain clouds
+ENTER
+HOME
+STRING moving into this direction)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I gotta get home.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Can't fly in rain.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Can't fly in rain.
+ENTER
+HOME
+STRING (A rain drop hits Barry and one of his wings is damaged)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Can't fly in rain.
+ENTER
+HOME
+STRING (A second rain drop hits Barry again and he spirals downwards)
+ENTER
+HOME
+STRING Mayday! Mayday! Bee going down!
+ENTER
+HOME
+STRING (WW2 plane sound effects are played as he plummets, and he crash-lands on a
+ENTER
+HOME
+STRING plant inside an apartment near the window)
+ENTER
+HOME
+STRING VANESSA BLOOME:
+ENTER
+HOME
+STRING Ken, could you close
+ENTER
+HOME
+STRING the window please?
+ENTER
+HOME
+STRING KEN==
+ENTER
+HOME
+STRING Hey, check out my new resume.
+ENTER
+HOME
+STRING I made it into a fold-out brochure.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You see?
+ENTER
+HOME
+STRING (Folds brochure resume out)
+ENTER
+HOME
+STRING Folds out.
+ENTER
+HOME
+STRING (Ken closes the window, trapping Barry inside)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Oh, no. More humans. I don't need this.
+ENTER
+HOME
+STRING (Barry tries to fly away but smashes into the window and falls again)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING What was that?
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (Barry keeps trying to fly out the window but he keeps being knocked back
+ENTER
+HOME
+STRING because the window is closed)
+ENTER
+HOME
+STRING Maybe this time. This time. This time.
+ENTER
+HOME
+STRING This time! This time! This...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Drapes!
+ENTER
+HOME
+STRING (Barry taps the glass. He doesn't understand what it is)
+ENTER
+HOME
+STRING That is diabolical.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING It's fantastic. It's got all my special
+ENTER
+HOME
+STRING skills, even my top-ten favorite movies.
+ENTER
+HOME
+STRING ANDY:
+ENTER
+HOME
+STRING What's number one? Star Wars?
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Nah, I don't go for that...
+ENTER
+HOME
+STRING (Ken makes finger guns and makes "pew pew pew" sounds and then stops)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING ...kind of stuff.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING No wonder we shouldn't talk to them.
+ENTER
+HOME
+STRING They're out of their minds.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING When I leave a job interview, they're
+ENTER
+HOME
+STRING flabbergasted, can't believe what I say.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Looking at the light on the ceiling)
+ENTER
+HOME
+STRING There's the sun. Maybe that's a way out.
+ENTER
+HOME
+STRING (Starts flying towards the lightbulb)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I don't remember the sun
+ENTER
+HOME
+STRING having a big 75 on it.
+ENTER
+HOME
+STRING (Barry hits the lightbulb and falls into the dip on the table that the
+ENTER
+HOME
+STRING humans are sitting at)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING I predicted global warming.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I could feel it getting hotter.
+ENTER
+HOME
+STRING At first I thought it was just me.
+ENTER
+HOME
+STRING (Andy dips a chip into the bowl and scoops up some dip with Barry on it and
+ENTER
+HOME
+STRING is about to put it in his mouth)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Wait! Stop! Bee!
+ENTER
+HOME
+STRING (Andy drops the chip with Barry in fear and backs away. All the humans
+ENTER
+HOME
+STRING freak out)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Stand back. These are winter boots.
+ENTER
+HOME
+STRING (Ken has winter boots on his hands and he is about to smash the bee but
+ENTER
+HOME
+STRING Vanessa saves him last second)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Wait!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Don't kill him!
+ENTER
+HOME
+STRING (Vanessa puts Barry in a glass to protect him)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING You know I'm allergic to them!
+ENTER
+HOME
+STRING This thing could kill me!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Why does his life have
+ENTER
+HOME
+STRING less value than yours?
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Why does his life have any less value
+ENTER
+HOME
+STRING than mine? Is that your statement?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I'm just saying all life has value. You
+ENTER
+HOME
+STRING don't know what he's capable of feeling.
+ENTER
+HOME
+STRING (Vanessa picks up Ken's brochure and puts it under the glass so she can
+ENTER
+HOME
+STRING carry Barry back to the window. Barry looks at Vanessa in amazement)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING My brochure!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING There you go, little guy.
+ENTER
+HOME
+STRING (Vanessa opens the window and lets Barry out but Barry stays back and is
+ENTER
+HOME
+STRING still shocked that a human saved his life)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING I'm not scared of him.
+ENTER
+HOME
+STRING It's an allergic thing.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Put that on your resume brochure.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING My whole face could puff up.
+ENTER
+HOME
+STRING ANDY:
+ENTER
+HOME
+STRING Make it one of your special skills.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Knocking someone out
+ENTER
+HOME
+STRING is also a special skill.
+ENTER
+HOME
+STRING (Ken walks to the door)
+ENTER
+HOME
+STRING Right. Bye, Vanessa. Thanks.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Vanessa, next week? Yogurt night?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Sure, Ken. You know, whatever.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING (Vanessa tries to close door)
+ENTER
+HOME
+STRING KEN==
+ENTER
+HOME
+STRING - You could put carob chips on there.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Bye.
+ENTER
+HOME
+STRING (Closes door but Ken opens it again)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING - Supposed to be less calories.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Bye.
+ENTER
+HOME
+STRING (Closes door)
+ENTER
+HOME
+STRING (Fast forward to the next day, Barry is still inside the house. He flies
+ENTER
+HOME
+STRING into the kitchen where Vanessa is doing dishes)
+ENTER
+HOME
+STRING BARRY==
+ENTER
+HOME
+STRING (Talking to himself)
+ENTER
+HOME
+STRING I gotta say something.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING She saved my life.
+ENTER
+HOME
+STRING I gotta say something.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING All right, here it goes.
+ENTER
+HOME
+STRING (Turns back)
+ENTER
+HOME
+STRING Nah.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING What would I say?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I could really get in trouble.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING It's a bee law.
+ENTER
+HOME
+STRING You're not supposed to talk to a human.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I can't believe I'm doing this.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I've got to.
+ENTER
+HOME
+STRING (Barry disguises himself as a character on a food can as Vanessa walks by
+ENTER
+HOME
+STRING again)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Oh, I can't do it. Come on!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING No. Yes. No.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Do it. I can't.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING How should I start it?
+ENTER
+HOME
+STRING (Barry strikes a pose and wiggles his eyebrows)
+ENTER
+HOME
+STRING "You like jazz?"
+ENTER
+HOME
+STRING No, that's no good.
+ENTER
+HOME
+STRING (Vanessa is about to walk past Barry)
+ENTER
+HOME
+STRING Here she comes! Speak, you fool!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING ...Hi!
+ENTER
+HOME
+STRING (Vanessa gasps and drops the dishes in fright and notices Barry on the
+ENTER
+HOME
+STRING counter)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I'm sorry.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - You're talking.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Yes, I know.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING (Pointing at Barry)
+ENTER
+HOME
+STRING You're talking!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I'm so sorry.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING No, it's OK. It's fine.
+ENTER
+HOME
+STRING I know I'm dreaming.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING But I don't recall going to bed.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Well, I'm sure this
+ENTER
+HOME
+STRING is very disconcerting.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING This is a bit of a surprise to me.
+ENTER
+HOME
+STRING I mean, you're a bee!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I am. And I'm not supposed
+ENTER
+HOME
+STRING to be doing this,
+ENTER
+HOME
+STRING (Pointing to the living room where Ken tried to kill him last night)
+ENTER
+HOME
+STRING but they were all trying to kill me.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING And if it wasn't for you...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I had to thank you.
+ENTER
+HOME
+STRING It's just how I was raised.
+ENTER
+HOME
+STRING (Vanessa stabs her hand with a fork to test whether she's dreaming or not)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING That was a little weird.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - I'm talking with a bee.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Yeah.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I'm talking to a bee.
+ENTER
+HOME
+STRING And the bee is talking to me!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I just want to say I'm grateful.
+ENTER
+HOME
+STRING I'll leave now.
+ENTER
+HOME
+STRING (Barry turns to leave)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Wait! How did you learn to do that?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Flying back)
+ENTER
+HOME
+STRING - What?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING The talking...thing.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Same way you did, I guess.
+ENTER
+HOME
+STRING "Mama, Dada, honey." You pick it up.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - That's very funny.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Yeah.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Bees are funny. If we didn't laugh,
+ENTER
+HOME
+STRING we'd cry with what we have to deal with.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Anyway...
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Can I...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING ...get you something?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Like what?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I don't know. I mean...
+ENTER
+HOME
+STRING I don't know. Coffee?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I don't want to put you out.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING It's no trouble. It takes two minutes.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - It's just coffee.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I hate to impose.
+ENTER
+HOME
+STRING (Vanessa starts making coffee)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Don't be ridiculous!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Actually, I would love a cup.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Hey, you want rum cake?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I shouldn't.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Have some.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - No, I can't.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Come on!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I'm trying to lose a couple micrograms.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Where?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - These stripes don't help.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You look great!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I don't know if you know
+ENTER
+HOME
+STRING anything about fashion.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Are you all right?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING (Pouring coffee on the floor and missing the cup completely)
+ENTER
+HOME
+STRING No.
+ENTER
+HOME
+STRING (Flash forward in time. Barry and Vanessa are sitting together at a table
+ENTER
+HOME
+STRING on top of the apartment building drinking coffee)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING BARRY==
+ENTER
+HOME
+STRING He's making the tie in the cab
+ENTER
+HOME
+STRING as they're flying up Madison.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING He finally gets there.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING He runs up the steps into the church.
+ENTER
+HOME
+STRING The wedding is on.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING And he says, "Watermelon?
+ENTER
+HOME
+STRING I thought you said Guatemalan.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Why would I marry a watermelon?"
+ENTER
+HOME
+STRING (Barry laughs but Vanessa looks confused)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Is that a bee joke?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING That's the kind of stuff we do.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Yeah, different.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING So, what are you gonna do, Barry?
+ENTER
+HOME
+STRING (Barry stands on top of a sugar cube floating in his coffee and paddles it
+ENTER
+HOME
+STRING around with a straw like it's a gondola)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING About work? I don't know.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I want to do my part for the hive,
+ENTER
+HOME
+STRING but I can't do it the way they want.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I know how you feel.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - You do?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Sure.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING My parents wanted me to be a lawyer or
+ENTER
+HOME
+STRING a doctor, but I wanted to be a florist.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Really?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - My only interest is flowers.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Our new queen was just elected
+ENTER
+HOME
+STRING with that same campaign slogan.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Anyway, if you look...
+ENTER
+HOME
+STRING (Barry points to a tree in the middle of Central Park)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING There's my hive right there. See it?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You're in Sheep Meadow!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Yes! I'm right off the Turtle Pond!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING No way! I know that area.
+ENTER
+HOME
+STRING I lost a toe ring there once.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Why do girls put rings on their toes?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Why not?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING - It's like putting a hat on your knee.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Maybe I'll try that.
+ENTER
+HOME
+STRING (A custodian installing a lightbulb looks over at them but to his
+ENTER
+HOME
+STRING perspective it looks like Vanessa is talking to a cup of coffee on the
+ENTER
+HOME
+STRING table)
+ENTER
+HOME
+STRING CUSTODIAN:
+ENTER
+HOME
+STRING - You all right, ma'am?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Oh, yeah. Fine.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Just having two cups of coffee!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Anyway, this has been great.
+ENTER
+HOME
+STRING Thanks for the coffee.
+ENTER
+HOME
+STRING VANESSA==
+ENTER
+HOME
+STRING Yeah, it's no trouble.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Sorry I couldn't finish it. If I did,
+ENTER
+HOME
+STRING I'd be up the rest of my life.
+ENTER
+HOME
+STRING (Barry points towards the rum cake)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Can I take a piece of this with me?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Sure! Here, have a crumb.
+ENTER
+HOME
+STRING (Vanessa hands Barry a crumb but it is still pretty big for Barry)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Thanks!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Yeah.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING All right. Well, then...
+ENTER
+HOME
+STRING I guess I'll see you around.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Or not.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING OK, Barry...
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING And thank you
+ENTER
+HOME
+STRING so much again... for before.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Oh, that? That was nothing.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Well, not nothing, but... Anyway...
+ENTER
+HOME
+STRING (Vanessa and Barry hold hands, but Vanessa has to hold out a finger because
+ENTER
+HOME
+STRING her hands is to big and Barry holds that)
+ENTER
+HOME
+STRING (The custodian looks over again and it appears Vanessa is laughing at her
+ENTER
+HOME
+STRING coffee again. The lightbulb that he was screwing in sparks and he falls off
+ENTER
+HOME
+STRING the ladder)
+ENTER
+HOME
+STRING (Fast forward in time and we see two Bee Scientists testing out a parachute
+ENTER
+HOME
+STRING in a Honex wind tunnel)
+ENTER
+HOME
+STRING BEE SCIENTIST #1:
+ENTER
+HOME
+STRING This can't possibly work.
+ENTER
+HOME
+STRING BEE SCIENTIST #2:
+ENTER
+HOME
+STRING He's all set to go.
+ENTER
+HOME
+STRING We may as well try it.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING OK, Dave, pull the chute.
+ENTER
+HOME
+STRING (Dave pulls the chute and the wind slams him against the wall and he falls
+ENTER
+HOME
+STRING on his face.The camera pans over and we see Barry and Adam walking
+ENTER
+HOME
+STRING together)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Sounds amazing.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - It was amazing!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING It was the scariest,
+ENTER
+HOME
+STRING happiest moment of my life.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Humans! I can't believe
+ENTER
+HOME
+STRING you were with humans!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Giant, scary humans!
+ENTER
+HOME
+STRING What were they like?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Huge and crazy. They talk crazy.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING They eat crazy giant things.
+ENTER
+HOME
+STRING They drive crazy.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Do they try and kill you, like on TV?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Some of them. But some of them don't.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - How'd you get back?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Poodle.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING You did it, and I'm glad. You saw
+ENTER
+HOME
+STRING whatever you wanted to see.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You had your "experience." Now you
+ENTER
+HOME
+STRING can pick out your job and be normal.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Well...
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Well?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Well, I met someone.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING You did? Was she Bee-ish?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - A wasp?! Your parents will kill you!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - No, no, no, not a wasp.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Spider?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I'm not attracted to spiders.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I know, for everyone else, it's the hottest thing,
+ENTER
+HOME
+STRING with the eight legs and all.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I can't get by that face.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING So who is she?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING She's... human.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING No, no. That's a bee law.
+ENTER
+HOME
+STRING You wouldn't break a bee law.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Her name's Vanessa.
+ENTER
+HOME
+STRING (Adam puts his head in his hands)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Oh, boy.
+ENTER
+HOME
+STRING BARRY==
+ENTER
+HOME
+STRING She's so nice. And she's a florist!
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Oh, no! You're dating a human florist!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING We're not dating.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING You're flying outside the hive, talking
+ENTER
+HOME
+STRING to humans that attack our homes
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING with power washers and M-80s!
+ENTER
+HOME
+STRING That's one-eighth a stick of dynamite!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING She saved my life!
+ENTER
+HOME
+STRING And she understands me.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING This is over!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Eat this.
+ENTER
+HOME
+STRING (Barry gives Adam a piece of the crumb that he got from Vanessa. Adam eats
+ENTER
+HOME
+STRING it)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING (Adam's tone changes)
+ENTER
+HOME
+STRING This is not over! What was that?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - They call it a crumb.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - It was so stingin' stripey!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING And that's not what they eat.
+ENTER
+HOME
+STRING That's what falls off what they eat!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - You know what a Cinnabon is?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - No.
+ENTER
+HOME
+STRING (Adam opens a door behind him and he pulls Barry in)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING It's bread and cinnamon and frosting.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Be quiet!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING They heat it up...
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Sit down!
+ENTER
+HOME
+STRING (Adam forces Barry to sit down)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Still rambling about Cinnabons)
+ENTER
+HOME
+STRING ...really hot!
+ENTER
+HOME
+STRING (Adam grabs Barry by the shoulders)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Listen to me!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We are not them! We're us.
+ENTER
+HOME
+STRING There's us and there's them!
+ENTER
+HOME
+STRING BARRY==
+ENTER
+HOME
+STRING Yes, but who can deny
+ENTER
+HOME
+STRING the heart that is yearning?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING There's no yearning.
+ENTER
+HOME
+STRING Stop yearning. Listen to me!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You have got to start thinking bee,
+ENTER
+HOME
+STRING my friend. Thinking bee!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Thinking bee.
+ENTER
+HOME
+STRING WORKER BEE:
+ENTER
+HOME
+STRING - Thinking bee.
+ENTER
+HOME
+STRING WORKER BEES AND ADAM:
+ENTER
+HOME
+STRING Thinking bee! Thinking bee!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Thinking bee! Thinking bee!
+ENTER
+HOME
+STRING (Flash forward in time; Barry is laying on a raft in a pool full of honey.
+ENTER
+HOME
+STRING He is wearing sunglasses)
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING There he is. He's in the pool.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING You know what your problem is, Barry?
+ENTER
+HOME
+STRING (Barry pulls down his sunglasses and he looks annoyed)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Sarcastic)
+ENTER
+HOME
+STRING I gotta start thinking bee?
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING How much longer will this go on?
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING It's been three days!
+ENTER
+HOME
+STRING Why aren't you working?
+ENTER
+HOME
+STRING (Puts sunglasses back on)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I've got a lot of big life decisions
+ENTER
+HOME
+STRING to think about.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING What life? You have no life!
+ENTER
+HOME
+STRING You have no job. You're barely a bee!
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING Would it kill you
+ENTER
+HOME
+STRING to make a little honey?
+ENTER
+HOME
+STRING (Barry rolls off the raft and sinks into the honey pool)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Barry, come out.
+ENTER
+HOME
+STRING Your father's talking to you.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Martin, would you talk to him?
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Barry, I'm talking to you!
+ENTER
+HOME
+STRING (Barry keeps sinking into the honey until he is suddenly in Central Park
+ENTER
+HOME
+STRING having a picnic with Vanessa)
+ENTER
+HOME
+STRING (Barry has a cup of honey and he clinks his glass with Vanessas. Suddenly a
+ENTER
+HOME
+STRING mosquito lands on Vanessa and she slaps it, killing it. They both gasp but
+ENTER
+HOME
+STRING then burst out laughing)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You coming?
+ENTER
+HOME
+STRING (The camera pans over and Vanessa is climbing into a small yellow airplane)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Got everything?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING All set!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Go ahead. I'll catch up.
+ENTER
+HOME
+STRING (Vanessa lifts off and flies ahead)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Don't be too long.
+ENTER
+HOME
+STRING (Barry catches up with Vanessa and he sticks out his arms like ana irplane.
+ENTER
+HOME
+STRING He rolls from side to side, and Vanessa copies him with the airplane)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Watch this!
+ENTER
+HOME
+STRING (Barry stays back and watches as Vanessa draws a heart in the air using
+ENTER
+HOME
+STRING pink smoke from the plane, but on the last loop-the-loop she suddenly
+ENTER
+HOME
+STRING crashes into a mountain and the plane explodes. The destroyed plane falls
+ENTER
+HOME
+STRING into some rocks and explodes a second time)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Vanessa!
+ENTER
+HOME
+STRING (As Barry is yelling his mouth fills with honey and he wakes up,
+ENTER
+HOME
+STRING discovering that he was just day dreaming. He slowly sinks back into the
+ENTER
+HOME
+STRING honey pool)
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING - We're still here.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING - I told you not to yell at him.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING He doesn't respond to yelling!
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING - Then why yell at me?
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING - Because you don't listen!
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING I'm not listening to this.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Sorry, I've gotta go.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING - Where are you going?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I'm meeting a friend.
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING A girl? Is this why you can't decide?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Bye.
+ENTER
+HOME
+STRING (Barry flies out the door and Martin shakes his head)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING JANET==
+ENTER
+HOME
+STRING I just hope she's Bee-ish.
+ENTER
+HOME
+STRING (Fast forward in time and Barry is sitting on Vanessa's shoulder and she is
+ENTER
+HOME
+STRING closing up her shop)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING They have a huge parade
+ENTER
+HOME
+STRING of flowers every year in Pasadena?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING To be in the Tournament of Roses,
+ENTER
+HOME
+STRING that's every florist's dream!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Up on a float, surrounded
+ENTER
+HOME
+STRING by flowers, crowds cheering.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING A tournament. Do the roses
+ENTER
+HOME
+STRING compete in athletic events?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING No. All right, I've got one.
+ENTER
+HOME
+STRING How come you don't fly everywhere?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING It's exhausting. Why don't you
+ENTER
+HOME
+STRING run everywhere? It's faster.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Yeah, OK, I see, I see.
+ENTER
+HOME
+STRING All right, your turn.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING TiVo. You can just freeze live TV?
+ENTER
+HOME
+STRING That's insane!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You don't have that?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING We have Hivo, but it's a disease.
+ENTER
+HOME
+STRING It's a horrible, horrible disease.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Oh, my.
+ENTER
+HOME
+STRING (A human walks by and Barry narrowly avoids him)
+ENTER
+HOME
+STRING PASSERBY:
+ENTER
+HOME
+STRING Dumb bees!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You must want to sting all those jerks.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING We try not to sting.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING It's usually fatal for us.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING So you have to watch your temper
+ENTER
+HOME
+STRING (They walk into a store)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Very carefully.
+ENTER
+HOME
+STRING You kick a wall, take a walk,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING write an angry letter and throw it out.
+ENTER
+HOME
+STRING Work through it like any emotion:
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Anger, jealousy, lust.
+ENTER
+HOME
+STRING (Suddenly an employee(Hector) hits Barry off of Vanessa's shoulder. Hector
+ENTER
+HOME
+STRING thinks he's saving Vanessa)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING (To Barry)
+ENTER
+HOME
+STRING Oh, my goodness! Are you OK?
+ENTER
+HOME
+STRING (Barry is getting up off the floor)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Yeah.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING (To Hector)
+ENTER
+HOME
+STRING - What is wrong with you?!
+ENTER
+HOME
+STRING HECTOR:
+ENTER
+HOME
+STRING (Confused)
+ENTER
+HOME
+STRING - It's a bug.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING He's not bothering anybody.
+ENTER
+HOME
+STRING Get out of here, you creep!
+ENTER
+HOME
+STRING (Vanessa hits Hector across the face with the magazine he had and then hits
+ENTER
+HOME
+STRING him in the head. Hector backs away covering his head)
+ENTER
+HOME
+STRING Barry:
+ENTER
+HOME
+STRING What was that? A Pic 'N' Save circular?
+ENTER
+HOME
+STRING (Vanessa sets Barry back on her shoulder)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Yeah, it was. How did you know?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING It felt like about 10 pages.
+ENTER
+HOME
+STRING Seventy-five is pretty much our limit.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You've really got that
+ENTER
+HOME
+STRING down to a science.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Oh, we have to. I lost a cousin to Italian Vogue.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - I'll bet.
+ENTER
+HOME
+STRING (Barry looks to his right and notices there is honey for sale in the aisle)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What in the name
+ENTER
+HOME
+STRING of Mighty Hercules is this?
+ENTER
+HOME
+STRING (Barry looks at all the brands of honey, shocked)
+ENTER
+HOME
+STRING How did this get here?
+ENTER
+HOME
+STRING Cute Bee, Golden Blossom,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Ray Liotta Private Select?
+ENTER
+HOME
+STRING (Barry puts his hands up and slowly turns around, a look of disgust on his
+ENTER
+HOME
+STRING face)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Is he that actor?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I never heard of him.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Why is this here?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - For people. We eat it.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING You don't have
+ENTER
+HOME
+STRING enough food of your own?!
+ENTER
+HOME
+STRING (Hector looks back and notices that Vanessa is talking to Barry)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Well, yes.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - How do you get it?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Bees make it.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I know who makes it!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING And it's hard to make it!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING There's heating, cooling, stirring.
+ENTER
+HOME
+STRING You need a whole Krelman thing!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - It's organic.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - It's our-ganic!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING It's just honey, Barry.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Just what?!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Bees don't know about this!
+ENTER
+HOME
+STRING This is stealing! A lot of stealing!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You've taken our homes, schools,
+ENTER
+HOME
+STRING hospitals! This is all we have!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING And it's on sale?!
+ENTER
+HOME
+STRING I'm getting to the bottom of this.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I'm getting to the bottom
+ENTER
+HOME
+STRING of all of this!
+ENTER
+HOME
+STRING (Flash forward in time; Barry paints his face with black strikes like a
+ENTER
+HOME
+STRING soldier and sneaks into the storage section of the store)
+ENTER
+HOME
+STRING (Two men, including Hector, are loading boxes into some trucks)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING SUPERMARKET EMPLOYEE==
+ENTER
+HOME
+STRING Hey, Hector.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - You almost done?
+ENTER
+HOME
+STRING HECTOR:
+ENTER
+HOME
+STRING - Almost.
+ENTER
+HOME
+STRING (Barry takes a step to peak around the corner)
+ENTER
+HOME
+STRING (Whispering)
+ENTER
+HOME
+STRING He is here. I sense it.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Well, I guess I'll go home now
+ENTER
+HOME
+STRING (Hector pretends to walk away by walking in place and speaking loudly)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING and just leave this nice honey out,
+ENTER
+HOME
+STRING with no one around.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING You're busted, box boy!
+ENTER
+HOME
+STRING HECTOR:
+ENTER
+HOME
+STRING I knew I heard something!
+ENTER
+HOME
+STRING So you can talk!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I can talk.
+ENTER
+HOME
+STRING And now you'll start talking!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Where you getting the sweet stuff?
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Who's your supplier?
+ENTER
+HOME
+STRING HECTOR:
+ENTER
+HOME
+STRING I don't understand.
+ENTER
+HOME
+STRING I thought we were friends.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING The last thing we want
+ENTER
+HOME
+STRING to do is upset bees!
+ENTER
+HOME
+STRING (Hector takes a thumbtack out of the board behind him and sword-fights
+ENTER
+HOME
+STRING Barry. Barry is using his stinger like a sword)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You're too late! It's ours now!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING You, sir, have crossed
+ENTER
+HOME
+STRING the wrong sword!
+ENTER
+HOME
+STRING HECTOR:
+ENTER
+HOME
+STRING You, sir, will be lunch
+ENTER
+HOME
+STRING for my iguana, Ignacio!
+ENTER
+HOME
+STRING (Barry hits the thumbtack out of Hectors hand and Hector surrenders)
+ENTER
+HOME
+STRING Barry:
+ENTER
+HOME
+STRING Where is the honey coming from?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Tell me where!
+ENTER
+HOME
+STRING HECTOR:
+ENTER
+HOME
+STRING (Pointing to leaving truck)
+ENTER
+HOME
+STRING Honey Farms! It comes from Honey Farms!
+ENTER
+HOME
+STRING (Barry chases after the truck but it is getting away. He flies onto a
+ENTER
+HOME
+STRING bicyclists' backpack and he catches up to the truck)
+ENTER
+HOME
+STRING CAR DRIVER:
+ENTER
+HOME
+STRING (To bicyclist)
+ENTER
+HOME
+STRING Crazy person!
+ENTER
+HOME
+STRING (Barry flies off and lands on the windshield of the Honey farms truck.
+ENTER
+HOME
+STRING Barry looks around and sees dead bugs splattered everywhere)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What horrible thing has happened here?
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING These faces, they never knew
+ENTER
+HOME
+STRING what hit them. And now
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING they're on the road to nowhere!
+ENTER
+HOME
+STRING (Barry hears a sudden whisper)
+ENTER
+HOME
+STRING (Barry looks up and sees Mooseblood, a mosquito playing dead)
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING Just keep still.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What? You're not dead?
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING Do I look dead? They will wipe anything
+ENTER
+HOME
+STRING that moves. Where you headed?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING To Honey Farms.
+ENTER
+HOME
+STRING I am onto something huge here.
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING I'm going to Alaska. Moose blood,
+ENTER
+HOME
+STRING crazy stuff. Blows your head off!
+ENTER
+HOME
+STRING ANOTHER BUG PLAYING DEAD:
+ENTER
+HOME
+STRING I'm going to Tacoma.
+ENTER
+HOME
+STRING (Barry looks at another bug)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - And you?
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING - He really is dead.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING All right.
+ENTER
+HOME
+STRING (Another bug hits the windshield and the drivers notice. They activate the
+ENTER
+HOME
+STRING windshield wipers)
+ENTER
+HOME
+STRING MOOSEBLOOD==
+ENTER
+HOME
+STRING Uh-oh!
+ENTER
+HOME
+STRING (The windshield wipers are slowly sliding over the dead bugs and wiping
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING them off)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - What is that?!
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING - Oh, no!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - A wiper! Triple blade!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Triple blade?
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING Jump on! It's your only chance, bee!
+ENTER
+HOME
+STRING (Mooseblood and Barry grab onto the wiper and they hold on as it wipes the
+ENTER
+HOME
+STRING windshield)
+ENTER
+HOME
+STRING Why does everything have
+ENTER
+HOME
+STRING to be so doggone clean?!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING How much do you people need to see?!
+ENTER
+HOME
+STRING (Bangs on windshield)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Open your eyes!
+ENTER
+HOME
+STRING Stick your head out the window!
+ENTER
+HOME
+STRING RADIO IN TRUCK:
+ENTER
+HOME
+STRING From NPR News in Washington,
+ENTER
+HOME
+STRING I'm Carl Kasell.
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING But don't kill no more bugs!
+ENTER
+HOME
+STRING (Mooseblood and Barry are washed off by the wipr fluid)
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING - Bee!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Moose blood guy!!
+ENTER
+HOME
+STRING (Barry starts screaming as he hangs onto the antenna)
+ENTER
+HOME
+STRING (Suddenly it is revealed that a water bug is also hanging on the antenna.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING There is a pause and then Barry and the water bug both start screaming)
+ENTER
+HOME
+STRING TRUCK DRIVER:
+ENTER
+HOME
+STRING - You hear something?
+ENTER
+HOME
+STRING GUY IN TRUCK:
+ENTER
+HOME
+STRING - Like what?
+ENTER
+HOME
+STRING TRUCK DRIVER:
+ENTER
+HOME
+STRING Like tiny screaming.
+ENTER
+HOME
+STRING GUY IN TRUCK:
+ENTER
+HOME
+STRING Turn off the radio.
+ENTER
+HOME
+STRING (The antenna starts to lower until it gets to low and sinks into the truck.
+ENTER
+HOME
+STRING The water bug flies off and Barry is forced to let go and he is blown away.
+ENTER
+HOME
+STRING He luckily lands inside a horn on top of the truck where he finds
+ENTER
+HOME
+STRING Mooseblood, who was blown into the same place)
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING Whassup, bee boy?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Hey, Blood.
+ENTER
+HOME
+STRING (Fast forward in time and we see that Barry is deep in conversation with
+ENTER
+HOME
+STRING Mooseblood. They have been sitting in this truck for a while)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING ...Just a row of honey jars,
+ENTER
+HOME
+STRING as far as the eye could see.
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING Wow!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I assume wherever this truck goes
+ENTER
+HOME
+STRING is where they're getting it.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I mean, that honey's ours.
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING - Bees hang tight.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING - We're all jammed in.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING It's a close community.
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING Not us, man. We on our own.
+ENTER
+HOME
+STRING Every mosquito on his own.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - What if you get in trouble?
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING - You a mosquito, you in trouble.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Nobody likes us. They just smack.
+ENTER
+HOME
+STRING See a mosquito, smack, smack!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING At least you're out in the world.
+ENTER
+HOME
+STRING You must meet girls.
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING Mosquito girls try to trade up,
+ENTER
+HOME
+STRING get with a moth, dragonfly.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Mosquito girl don't want no mosquito.
+ENTER
+HOME
+STRING (An ambulance passes by and it has a blood donation sign on it)
+ENTER
+HOME
+STRING You got to be kidding me!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Mooseblood's about to leave
+ENTER
+HOME
+STRING the building! So long, bee!
+ENTER
+HOME
+STRING (Mooseblood leaves and flies onto the window of the ambulance where there
+ENTER
+HOME
+STRING are other mosquito's hanging out)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Hey, guys!
+ENTER
+HOME
+STRING OTHER MOSQUITO:
+ENTER
+HOME
+STRING - Mooseblood!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING I knew I'd catch y'all down here.
+ENTER
+HOME
+STRING Did you bring your crazy straw?
+ENTER
+HOME
+STRING (The truck goes out of view and Barry notices that the truck he's on is
+ENTER
+HOME
+STRING pulling into a camp of some sort)
+ENTER
+HOME
+STRING TRUCK DRIVER:
+ENTER
+HOME
+STRING We throw it in jars, slap a label on it,
+ENTER
+HOME
+STRING and it's pretty much pure profit.
+ENTER
+HOME
+STRING (Barry flies out)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What is this place?
+ENTER
+HOME
+STRING BEEKEEPER 1#:
+ENTER
+HOME
+STRING A bee's got a brain
+ENTER
+HOME
+STRING the size of a pinhead.
+ENTER
+HOME
+STRING BEEKEEPER #2:
+ENTER
+HOME
+STRING They are pinheads!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Pinhead.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Check out the new smoker.
+ENTER
+HOME
+STRING BEEKEEPER #1:
+ENTER
+HOME
+STRING - Oh, sweet. That's the one you want.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING The Thomas 3000!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Smoker?
+ENTER
+HOME
+STRING BEEKEEPER #1:
+ENTER
+HOME
+STRING Ninety puffs a minute, semi-automatic.
+ENTER
+HOME
+STRING Twice the nicotine, all the tar.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING A couple breaths of this
+ENTER
+HOME
+STRING knocks them right out.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BEEKEEPER #2:
+ENTER
+HOME
+STRING They make the honey,
+ENTER
+HOME
+STRING and we make the money.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING "They make the honey,
+ENTER
+HOME
+STRING and we make the money"?
+ENTER
+HOME
+STRING (The Beekeeper sprays hundreds of cheap miniature apartments with the
+ENTER
+HOME
+STRING smoker. The bees are fainting or passing out)
+ENTER
+HOME
+STRING Oh, my!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING What's going on? Are you OK?
+ENTER
+HOME
+STRING (Barry flies into one of the apartment and helps a Bee couple get off the
+ENTER
+HOME
+STRING ground. They are coughing and its hard for them to stand)
+ENTER
+HOME
+STRING BEE IN APARTMENT:
+ENTER
+HOME
+STRING Yeah. It doesn't last too long.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Do you know you're
+ENTER
+HOME
+STRING in a fake hive with fake walls?
+ENTER
+HOME
+STRING BEE IN APPARTMENT:
+ENTER
+HOME
+STRING Our queen was moved here.
+ENTER
+HOME
+STRING We had no choice.
+ENTER
+HOME
+STRING (The apartment room is completely empty except for a photo on the wall of
+ENTER
+HOME
+STRING the "queen" who is obviously a man in women's clothes)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING This is your queen?
+ENTER
+HOME
+STRING That's a man in women's clothes!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING That's a drag queen!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING What is this?
+ENTER
+HOME
+STRING (Barry flies out and he discovers that there are hundreds of these
+ENTER
+HOME
+STRING structures, each housing thousands of Bees)
+ENTER
+HOME
+STRING Oh, no!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING There's hundreds of them!
+ENTER
+HOME
+STRING (Barry takes out his camera and takes pictures of these Bee work camps. The
+ENTER
+HOME
+STRING beekeepers look very evil in these depictions)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Bee honey.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Our honey is being brazenly stolen
+ENTER
+HOME
+STRING on a massive scale!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING This is worse than anything bears
+ENTER
+HOME
+STRING have done! I intend to do something.
+ENTER
+HOME
+STRING (Flash forward in time and Barry is showing these pictures to his parents)
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING Oh, Barry, stop.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING Who told you humans are taking
+ENTER
+HOME
+STRING our honey? That's a rumor.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Do these look like rumors?
+ENTER
+HOME
+STRING (Holds up the pictures)
+ENTER
+HOME
+STRING UNCLE CARL:
+ENTER
+HOME
+STRING That's a conspiracy theory.
+ENTER
+HOME
+STRING These are obviously doctored photos.
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING How did you get mixed up in this?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING He's been talking to humans.
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING - What?
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING - Talking to humans?!
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING He has a human girlfriend.
+ENTER
+HOME
+STRING And they make out!
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING Make out? Barry!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING We do not.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - You wish you could.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING - Whose side are you on?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING The bees!
+ENTER
+HOME
+STRING UNCLE CARL:
+ENTER
+HOME
+STRING (He has been sitting in the back of the room this entire time)
+ENTER
+HOME
+STRING I dated a cricket once in San Antonio.
+ENTER
+HOME
+STRING Those crazy legs kept me up all night.
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING Barry, this is what you want
+ENTER
+HOME
+STRING to do with your life?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I want to do it for all our lives.
+ENTER
+HOME
+STRING Nobody works harder than bees!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Dad, I remember you
+ENTER
+HOME
+STRING coming home so overworked
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING your hands were still stirring.
+ENTER
+HOME
+STRING You couldn't stop.
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING I remember that.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What right do they have to our honey?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We live on two cups a year. They put it
+ENTER
+HOME
+STRING in lip balm for no reason whatsoever!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Even if it's true, what can one bee do?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Sting them where it really hurts.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING In the face! The eye!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - That would hurt.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - No.
+ENTER
+HOME
+STRING MARTIN:
+ENTER
+HOME
+STRING Up the nose? That's a killer.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING There's only one place you can sting
+ENTER
+HOME
+STRING the humans, one place where it matters.
+ENTER
+HOME
+STRING (Flash forward a bit in time and we are watching the Bee News)
+ENTER
+HOME
+STRING BEE NEWS NARRATOR:
+ENTER
+HOME
+STRING Hive at Five, the hive's only
+ENTER
+HOME
+STRING full-hour action news source.
+ENTER
+HOME
+STRING BEE PROTESTOR:
+ENTER
+HOME
+STRING No more bee beards!
+ENTER
+HOME
+STRING BEE NEWS NARRATOR:
+ENTER
+HOME
+STRING With Bob Bumble at the anchor desk.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Weather with Storm Stinger.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Sports with Buzz Larvi.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING And Jeanette Chung.
+ENTER
+HOME
+STRING BOB BUMBLE:
+ENTER
+HOME
+STRING - Good evening. I'm Bob Bumble.
+ENTER
+HOME
+STRING JEANETTE CHUNG:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING - And I'm Jeanette Chung.
+ENTER
+HOME
+STRING BOB BUMBLE:
+ENTER
+HOME
+STRING A tri-county bee, Barry Benson,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING intends to sue the human race
+ENTER
+HOME
+STRING for stealing our honey,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING packaging it and profiting
+ENTER
+HOME
+STRING from it illegally!
+ENTER
+HOME
+STRING JEANETTE CHUNG:
+ENTER
+HOME
+STRING Tomorrow night on Bee Larry King,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING we'll have three former queens here in
+ENTER
+HOME
+STRING our studio, discussing their new book,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Classy Ladies,
+ENTER
+HOME
+STRING out this week on Hexagon.
+ENTER
+HOME
+STRING (The scene changes to an interview on the news with Bee version of Larry
+ENTER
+HOME
+STRING King and Barry)
+ENTER
+HOME
+STRING BEE LARRY KING:
+ENTER
+HOME
+STRING Tonight we're talking to Barry Benson.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Did you ever think, "I'm a kid
+ENTER
+HOME
+STRING from the hive. I can't do this"?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Bees have never been afraid
+ENTER
+HOME
+STRING to change the world.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING What about Bee Columbus?
+ENTER
+HOME
+STRING Bee Gandhi? Bejesus?
+ENTER
+HOME
+STRING BEE LARRY KING:
+ENTER
+HOME
+STRING Where I'm from, we'd never sue humans.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We were thinking
+ENTER
+HOME
+STRING of stickball or candy stores.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING How old are you?
+ENTER
+HOME
+STRING BEE LARRY KING:
+ENTER
+HOME
+STRING The bee community
+ENTER
+HOME
+STRING is supporting you in this case,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING which will be the trial
+ENTER
+HOME
+STRING of the bee century.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING You know, they have a Larry King
+ENTER
+HOME
+STRING in the human world too.
+ENTER
+HOME
+STRING BEE LARRY KING:
+ENTER
+HOME
+STRING It's a common name. Next week...
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING He looks like you and has a show
+ENTER
+HOME
+STRING and suspenders and colored dots...
+ENTER
+HOME
+STRING BEE LARRY KING:
+ENTER
+HOME
+STRING Next week...
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Glasses, quotes on the bottom from the
+ENTER
+HOME
+STRING guest even though you just heard 'em.
+ENTER
+HOME
+STRING BEE LARRY KING:
+ENTER
+HOME
+STRING Bear Week next week!
+ENTER
+HOME
+STRING They're scary, hairy and here, live.
+ENTER
+HOME
+STRING (Bee Larry King gets annoyed and flies away offscreen)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Always leans forward, pointy shoulders,
+ENTER
+HOME
+STRING squinty eyes, very Jewish.
+ENTER
+HOME
+STRING (Flash forward in time. We see Vanessa enter and Ken enters behind her.
+ENTER
+HOME
+STRING They are arguing)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING In tennis, you attack
+ENTER
+HOME
+STRING at the point of weakness!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING It was my grandmother, Ken. She's 81.
+ENTER
+HOME
+STRING KEN==
+ENTER
+HOME
+STRING Honey, her backhand's a joke!
+ENTER
+HOME
+STRING I'm not gonna take advantage of that?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (To Ken)
+ENTER
+HOME
+STRING Quiet, please.
+ENTER
+HOME
+STRING Actual work going on here.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING (Pointing at Barry)
+ENTER
+HOME
+STRING - Is that that same bee?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Yes, it is!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I'm helping him sue the human race.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Hello.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING - Hello, bee.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING This is Ken.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Recalling the "Winter Boots" incident earlier)
+ENTER
+HOME
+STRING Yeah, I remember you. Timberland, size
+ENTER
+HOME
+STRING ten and a half. Vibram sole, I believe.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING (To Vanessa)
+ENTER
+HOME
+STRING Why does he talk again?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Listen, you better go
+ENTER
+HOME
+STRING 'cause we're really busy working.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING But it's our yogurt night!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING (Holding door open for Ken)
+ENTER
+HOME
+STRING Bye-bye.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING (Yelling)
+ENTER
+HOME
+STRING Why is yogurt night so difficult?!
+ENTER
+HOME
+STRING (Ken leaves and Vanessa walks over to Barry. His workplace is a mess)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You poor thing.
+ENTER
+HOME
+STRING You two have been at this for hours!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Yes, and Adam here
+ENTER
+HOME
+STRING has been a huge help.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Frosting...
+ENTER
+HOME
+STRING - How many sugars?
+ENTER
+HOME
+STRING ==BARRY==
+ENTER
+HOME
+STRING Just one. I try not
+ENTER
+HOME
+STRING to use the competition.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING So why are you helping me?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Bees have good qualities.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING And it takes my mind off the shop.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Instead of flowers, people
+ENTER
+HOME
+STRING are giving balloon bouquets now.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Those are great, if you're three.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING And artificial flowers.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Oh, those just get me psychotic!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Yeah, me too.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Bent stingers, pointless pollination.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Bees must hate those fake things!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Nothing worse
+ENTER
+HOME
+STRING than a daffodil that's had work done.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Maybe this could make up
+ENTER
+HOME
+STRING for it a little bit.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - This lawsuit's a pretty big deal.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I guess.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING You sure you want to go through with it?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Am I sure? When I'm done with
+ENTER
+HOME
+STRING the humans, they won't be able
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING to say, "Honey, I'm home,"
+ENTER
+HOME
+STRING without paying a royalty!
+ENTER
+HOME
+STRING (Flash forward in time and we are watching the human news. The camera shows
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING a crowd outside a courthouse)
+ENTER
+HOME
+STRING NEWS REPORTER:
+ENTER
+HOME
+STRING It's an incredible scene
+ENTER
+HOME
+STRING here in downtown Manhattan,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING where the world anxiously waits,
+ENTER
+HOME
+STRING because for the first time in history,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING we will hear for ourselves
+ENTER
+HOME
+STRING if a honeybee can actually speak.
+ENTER
+HOME
+STRING (We are no longer watching through a news camera)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING What have we gotten into here, Barry?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING It's pretty big, isn't it?
+ENTER
+HOME
+STRING ADAM==
+ENTER
+HOME
+STRING (Looking at the hundreds of people around the courthouse)
+ENTER
+HOME
+STRING I can't believe how many humans
+ENTER
+HOME
+STRING don't work during the day.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING You think billion-dollar multinational
+ENTER
+HOME
+STRING food companies have good lawyers?
+ENTER
+HOME
+STRING SECURITY GUARD:
+ENTER
+HOME
+STRING Everybody needs to stay
+ENTER
+HOME
+STRING behind the barricade.
+ENTER
+HOME
+STRING (A limousine drives up and a fat man,Layton Montgomery, a honey industry
+ENTER
+HOME
+STRING owner gets out and walks past Barry)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - What's the matter?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I don't know, I just got a chill.
+ENTER
+HOME
+STRING (Fast forward in time and everyone is in the court)
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING Well, if it isn't the bee team.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (To Honey Industry lawyers)
+ENTER
+HOME
+STRING You boys work on this?
+ENTER
+HOME
+STRING MAN:
+ENTER
+HOME
+STRING All rise! The Honorable
+ENTER
+HOME
+STRING Judge Bumbleton presiding.
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING All right. Case number 4475,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Superior Court of New York,
+ENTER
+HOME
+STRING Barry Bee Benson v. the Honey Industry
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING is now in session.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Mr. Montgomery, you're representing
+ENTER
+HOME
+STRING the five food companies collectively?
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING A privilege.
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING Mr. Benson... you're representing
+ENTER
+HOME
+STRING all the bees of the world?
+ENTER
+HOME
+STRING (Everyone looks closely, they are waiting to see if a Bee can really talk)
+ENTER
+HOME
+STRING (Barry makes several buzzing sounds to sound like a Bee)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I'm kidding. Yes, Your Honor,
+ENTER
+HOME
+STRING we're ready to proceed.
+ENTER
+HOME
+STRING JUDGE BUMBLBETON:
+ENTER
+HOME
+STRING Mr. Montgomery,
+ENTER
+HOME
+STRING your opening statement, please.
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING Ladies and gentlemen of the jury,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING my grandmother was a simple woman.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Born on a farm, she believed
+ENTER
+HOME
+STRING it was man's divine right
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING to benefit from the bounty
+ENTER
+HOME
+STRING of nature God put before us.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING If we lived in the topsy-turvy world
+ENTER
+HOME
+STRING Mr. Benson imagines,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING just think of what would it mean.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I would have to negotiate
+ENTER
+HOME
+STRING with the silkworm
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING for the elastic in my britches!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Talking bee!
+ENTER
+HOME
+STRING (Montgomery walks over and looks closely at Barry)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING How do we know this isn't some sort of
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING holographic motion-picture-capture
+ENTER
+HOME
+STRING Hollywood wizardry?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING They could be using laser beams!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Robotics! Ventriloquism!
+ENTER
+HOME
+STRING Cloning! For all we know,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING he could be on steroids!
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING Mr. Benson?
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Ladies and gentlemen,
+ENTER
+HOME
+STRING there's no trickery here.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I'm just an ordinary bee.
+ENTER
+HOME
+STRING Honey's pretty important to me.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING It's important to all bees.
+ENTER
+HOME
+STRING We invented it!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We make it. And we protect it
+ENTER
+HOME
+STRING with our lives.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Unfortunately, there are
+ENTER
+HOME
+STRING some people in this room
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING who think they can take it from us
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING 'cause we're the little guys!
+ENTER
+HOME
+STRING I'm hoping that, after this is all over,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING you'll see how, by taking our honey,
+ENTER
+HOME
+STRING you not only take everything we have
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING but everything we are!
+ENTER
+HOME
+STRING JANET==
+ENTER
+HOME
+STRING (To Martin)
+ENTER
+HOME
+STRING I wish he'd dress like that
+ENTER
+HOME
+STRING all the time. So nice!
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING Call your first witness.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING So, Mr. Klauss Vanderhayden
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING of Honey Farms, big company you have.
+ENTER
+HOME
+STRING KLAUSS VANDERHAYDEN:
+ENTER
+HOME
+STRING I suppose so.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I see you also own
+ENTER
+HOME
+STRING Honeyburton and Honron!
+ENTER
+HOME
+STRING KLAUSS:
+ENTER
+HOME
+STRING Yes, they provide beekeepers
+ENTER
+HOME
+STRING for our farms.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Beekeeper. I find that
+ENTER
+HOME
+STRING to be a very disturbing term.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I don't imagine you employ
+ENTER
+HOME
+STRING any bee-free-ers, do you?
+ENTER
+HOME
+STRING KLAUSS:
+ENTER
+HOME
+STRING (Quietly)
+ENTER
+HOME
+STRING - No.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I couldn't hear you.
+ENTER
+HOME
+STRING KLAUSS:
+ENTER
+HOME
+STRING - No.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - No.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Because you don't free bees.
+ENTER
+HOME
+STRING You keep bees. Not only that,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING it seems you thought a bear would be
+ENTER
+HOME
+STRING an appropriate image for a jar of honey.
+ENTER
+HOME
+STRING KLAUSS:
+ENTER
+HOME
+STRING They're very lovable creatures.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Yogi Bear, Fozzie Bear, Build-A-Bear.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING You mean like this?
+ENTER
+HOME
+STRING (The bear from Over The Hedge barges in through the back door and it is
+ENTER
+HOME
+STRING roaring and standing on its hind legs. It is thrashing its claws and people
+ENTER
+HOME
+STRING are screaming. It is being held back by a guard who has the bear on a
+ENTER
+HOME
+STRING chain)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING (Pointing to the roaring bear)
+ENTER
+HOME
+STRING Bears kill bees!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING How'd you like his head crashing
+ENTER
+HOME
+STRING through your living room?!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Biting into your couch!
+ENTER
+HOME
+STRING Spitting out your throw pillows!
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING OK, that's enough. Take him away.
+ENTER
+HOME
+STRING (The bear stops roaring and thrashing and walks out)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING So, Mr. Sting, thank you for being here.
+ENTER
+HOME
+STRING Your name intrigues me.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Where have I heard it before?
+ENTER
+HOME
+STRING MR. STING:
+ENTER
+HOME
+STRING - I was with a band called The Police.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING But you've never been
+ENTER
+HOME
+STRING a police officer, have you?
+ENTER
+HOME
+STRING STING:
+ENTER
+HOME
+STRING No, I haven't.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING No, you haven't. And so here
+ENTER
+HOME
+STRING we have yet another example
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING of bee culture casually
+ENTER
+HOME
+STRING stolen by a human
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING for nothing more than
+ENTER
+HOME
+STRING a prance-about stage name.
+ENTER
+HOME
+STRING STING:
+ENTER
+HOME
+STRING Oh, please.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Have you ever been stung, Mr. Sting?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Because I'm feeling
+ENTER
+HOME
+STRING a little stung, Sting.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Or should I say... Mr. Gordon M. Sumner!
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING That's not his real name?! You idiots!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Mr. Liotta, first,
+ENTER
+HOME
+STRING belated congratulations on
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING your Emmy win for a guest spot
+ENTER
+HOME
+STRING on ER in 2005.
+ENTER
+HOME
+STRING RAY LIOTTA:
+ENTER
+HOME
+STRING Thank you. Thank you.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I see from your resume
+ENTER
+HOME
+STRING that you're devilishly handsome
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING with a churning inner turmoil
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING that's ready to blow.
+ENTER
+HOME
+STRING RAY LIOTTA:
+ENTER
+HOME
+STRING I enjoy what I do. Is that a crime?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Not yet it isn't. But is this
+ENTER
+HOME
+STRING what it's come to for you?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Exploiting tiny, helpless bees
+ENTER
+HOME
+STRING so you don't
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING have to rehearse
+ENTER
+HOME
+STRING your part and learn your lines, sir?
+ENTER
+HOME
+STRING RAY LIOTTA:
+ENTER
+HOME
+STRING Watch it, Benson!
+ENTER
+HOME
+STRING I could blow right now!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING This isn't a goodfella.
+ENTER
+HOME
+STRING This is a badfella!
+ENTER
+HOME
+STRING (Ray Liotta looses it and tries to grab Barry)
+ENTER
+HOME
+STRING RAY LIOTTA:
+ENTER
+HOME
+STRING Why doesn't someone just step on
+ENTER
+HOME
+STRING this creep, and we can all go home?!
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING - Order in this court!
+ENTER
+HOME
+STRING RAY LIOTTA:
+ENTER
+HOME
+STRING - You're all thinking it!
+ENTER
+HOME
+STRING (Judge Bumbleton starts banging her gavel)
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING Order! Order, I say!
+ENTER
+HOME
+STRING RAY LIOTTA:
+ENTER
+HOME
+STRING - Say it!
+ENTER
+HOME
+STRING MAN:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING - Mr. Liotta, please sit down!
+ENTER
+HOME
+STRING (We see a montage of magazines which feature the court case)
+ENTER
+HOME
+STRING (Flash forward in time and Barry is back home with Vanessa)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I think it was awfully nice
+ENTER
+HOME
+STRING of that bear to pitch in like that.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I think the jury's on our side.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Are we doing everything right,you know, legally?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I'm a florist.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Right. Well, here's to a great team.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING To a great team!
+ENTER
+HOME
+STRING (Ken walks in from work. He sees Barry and he looks upset when he sees
+ENTER
+HOME
+STRING Barry clinking his glass with Vanessa)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Well, hello.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Oh, Ken!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Hello!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I didn't think you were coming.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING No, I was just late.
+ENTER
+HOME
+STRING I tried to call, but...
+ENTER
+HOME
+STRING (Ken holds up his phone and flips it open. The phone has no charge)
+ENTER
+HOME
+STRING ...the battery...
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING I didn't want all this to go to waste,
+ENTER
+HOME
+STRING so I called Barry. Luckily, he was free.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Oh, that was lucky.
+ENTER
+HOME
+STRING (Ken sits down at the table across from Barry and Vanessa leaves the room)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING There's a little left.
+ENTER
+HOME
+STRING I could heat it up.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING (Not taking his eyes off Barry)
+ENTER
+HOME
+STRING Yeah, heat it up, sure, whatever.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING So I hear you're quite a tennis player.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I'm not much for the game myself.
+ENTER
+HOME
+STRING The ball's a little grabby.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING That's where I usually sit.
+ENTER
+HOME
+STRING Right...
+ENTER
+HOME
+STRING (Points to where Barry is sitting)
+ENTER
+HOME
+STRING there.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING (Calling from other room)
+ENTER
+HOME
+STRING Ken, Barry was looking at your resume,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING and he agreed with me that eating with
+ENTER
+HOME
+STRING chopsticks isn't really a special skill.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING (To Barry)
+ENTER
+HOME
+STRING You think I don't see what you're doing?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I know how hard it is to find
+ENTER
+HOME
+STRING the right job. We have that in common.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Do we?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Bees have 100 percent employment,
+ENTER
+HOME
+STRING but we do jobs like taking the crud out.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING (Menacingly)
+ENTER
+HOME
+STRING That's just what
+ENTER
+HOME
+STRING I was thinking about doing.
+ENTER
+HOME
+STRING (Ken reaches for a fork on the table but knocks if on the floor. He goes to
+ENTER
+HOME
+STRING pick it up)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Ken, I let Barry borrow your razor
+ENTER
+HOME
+STRING for his fuzz. I hope that was all right.
+ENTER
+HOME
+STRING (Ken quickly rises back up after hearing this but hits his head on the
+ENTER
+HOME
+STRING table and yells)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I'm going to drain the old stinger.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Yeah, you do that.
+ENTER
+HOME
+STRING (Barry flies past Ken to get to the bathroom and Ken freaks out, splashing
+ENTER
+HOME
+STRING some of the wine he was using to cool his head in his eyes. He yells in
+ENTER
+HOME
+STRING anger)
+ENTER
+HOME
+STRING (Barry looks at the magazines featuring his victories in court)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Look at that.
+ENTER
+HOME
+STRING (Barry flies into the bathroom)
+ENTER
+HOME
+STRING (He puts his hand on his head but this makes hurts him and makes him even
+ENTER
+HOME
+STRING madder. He yells again)
+ENTER
+HOME
+STRING (Barry is washing his hands in the sink but then Ken walks in)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING You know, you know I've just about had it
+ENTER
+HOME
+STRING (Closes bathroom door behind him)
+ENTER
+HOME
+STRING with your little mind games.
+ENTER
+HOME
+STRING (Ken is menacingly rolling up a magazine)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (Backing away)
+ENTER
+HOME
+STRING - What's that?
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING - Italian Vogue.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Mamma mia, that's a lot of pages.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING It's a lot of ads.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Remember what Van said, why is
+ENTER
+HOME
+STRING your life more valuable than mine?
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING That's funny, I just can't seem to recall that!
+ENTER
+HOME
+STRING (Ken smashes everything off the sink with the magazine and Barry narrowly
+ENTER
+HOME
+STRING escapes)
+ENTER
+HOME
+STRING (Ken follows Barry around and tries to hit him with the magazine but he
+ENTER
+HOME
+STRING keeps missing)
+ENTER
+HOME
+STRING (Ken gets a spray bottle)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I think something stinks in here!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Enjoying the spray)
+ENTER
+HOME
+STRING I love the smell of flowers.
+ENTER
+HOME
+STRING (Ken holds a lighter in front of the spray bottle)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING How do you like the smell of flames?!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Not as much.
+ENTER
+HOME
+STRING (Ken fires his make-shift flamethrower but misses Barry, burning the
+ENTER
+HOME
+STRING bathroom. He torches the whole room but looses his footing and falls into
+ENTER
+HOME
+STRING the bathtub. After getting hit in the head by falling objects 3 times he
+ENTER
+HOME
+STRING picks up the shower head, revealing a Water bug hiding under it)
+ENTER
+HOME
+STRING WATER BUG:
+ENTER
+HOME
+STRING Water bug! Not taking sides!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (Barry gets up out of a pile of bathroom supplies and he is wearing a
+ENTER
+HOME
+STRING chapstick hat)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Ken, I'm wearing a Chapstick hat!
+ENTER
+HOME
+STRING This is pathetic!
+ENTER
+HOME
+STRING (Ken switches the shower head to lethal)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING I've got issues!
+ENTER
+HOME
+STRING (Ken sprays Barry with the shower head and he crash lands into the toilet)
+ENTER
+HOME
+STRING (Ken menacingly looks down into the toilet at Barry)
+ENTER
+HOME
+STRING Well, well, well, a royal flush!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - You're bluffing.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING - Am I?
+ENTER
+HOME
+STRING (flushes toilet)
+ENTER
+HOME
+STRING (Barry grabs a chapstick from the toilet seat and uses it to surf in the
+ENTER
+HOME
+STRING flushing toilet)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Surf's up, dude!
+ENTER
+HOME
+STRING (Barry flies out of the toilet on the chapstick and sprays Ken's face with
+ENTER
+HOME
+STRING the toilet water)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING EW,Poo water!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING That bowl is gnarly.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING (Aiming a toilet cleaner at Barry)
+ENTER
+HOME
+STRING Except for those dirty yellow rings!
+ENTER
+HOME
+STRING (Barry cowers and covers his head and Vanessa runs in and takes the toilet
+ENTER
+HOME
+STRING cleaner from Ken just before he hits Barry)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Kenneth! What are you doing?!
+ENTER
+HOME
+STRING KEN==
+ENTER
+HOME
+STRING (Leaning towards Barry)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING You know, I don't even like honey!
+ENTER
+HOME
+STRING I don't eat it!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING We need to talk!
+ENTER
+HOME
+STRING (Vanessa pulls Ken out of the bathroom)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING He's just a little bee!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING And he happens to be
+ENTER
+HOME
+STRING the nicest bee I've met in a long time!
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Long time? What are you talking about?!
+ENTER
+HOME
+STRING Are there other bugs in your life?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING No, but there are other things bugging
+ENTER
+HOME
+STRING me in life. And you're one of them!
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING Fine! Talking bees, no yogurt night...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING My nerves are fried from riding
+ENTER
+HOME
+STRING on this emotional roller coaster!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Goodbye, Ken.
+ENTER
+HOME
+STRING (Ken huffs and walks out and slams the door. But suddenly he walks back in
+ENTER
+HOME
+STRING and stares at Barry)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING And for your information,
+ENTER
+HOME
+STRING I prefer sugar-free, artificial
+ENTER
+HOME
+STRING sweeteners MADE BY MAN!
+ENTER
+HOME
+STRING (Ken leaves again and Vanessa leans in towards Barry)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I'm sorry about all that.
+ENTER
+HOME
+STRING (Ken walks back in again)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING I know it's got
+ENTER
+HOME
+STRING an aftertaste! I LIKE IT!
+ENTER
+HOME
+STRING (Ken leaves for the last time)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I always felt there was some kind
+ENTER
+HOME
+STRING of barrier between Ken and me.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I couldn't overcome it.
+ENTER
+HOME
+STRING Oh, well.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Are you OK for the trial?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I believe Mr. Montgomery
+ENTER
+HOME
+STRING is about out of ideas.
+ENTER
+HOME
+STRING (Flash forward in time and Barry, Adam, and Vanessa are back in court)
+ENTER
+HOME
+STRING MONTGOMERY--
+ENTER
+HOME
+STRING We would like to call
+ENTER
+HOME
+STRING Mr. Barry Benson Bee to the stand.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Good idea! You can really see why he's
+ENTER
+HOME
+STRING considered one of the best lawyers...
+ENTER
+HOME
+STRING (Barry stares at Adam)
+ENTER
+HOME
+STRING ...Yeah.
+ENTER
+HOME
+STRING LAWYER:
+ENTER
+HOME
+STRING Layton, you've
+ENTER
+HOME
+STRING gotta weave some magic
+ENTER
+HOME
+STRING with this jury,
+ENTER
+HOME
+STRING or it's gonna be all over.
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING Don't worry. The only thing I have
+ENTER
+HOME
+STRING to do to turn this jury around
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING is to remind them
+ENTER
+HOME
+STRING of what they don't like about bees.
+ENTER
+HOME
+STRING (To lawyer)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING - You got the tweezers?
+ENTER
+HOME
+STRING LAWYER:
+ENTER
+HOME
+STRING - Are you allergic?
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING Only to losing, son. Only to losing.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Mr. Benson Bee, I'll ask you
+ENTER
+HOME
+STRING what I think we'd all like to know.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING What exactly is your relationship
+ENTER
+HOME
+STRING (Points to Vanessa)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING to that woman?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING We're friends.
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING - Good friends?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Yes.
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING How good? Do you live together?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Wait a minute...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING Are you her little...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING ...bedbug?
+ENTER
+HOME
+STRING (Adam's stinger starts vibrating. He is agitated)
+ENTER
+HOME
+STRING I've seen a bee documentary or two.
+ENTER
+HOME
+STRING From what I understand,
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING doesn't your queen give birth
+ENTER
+HOME
+STRING to all the bee children?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Yeah, but...
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING (Pointing at Janet and Martin)
+ENTER
+HOME
+STRING - So those aren't your real parents!
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING - Oh, Barry...
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Yes, they are!
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Hold me back!
+ENTER
+HOME
+STRING (Vanessa tries to hold Adam back. He wants to sting Montgomery)
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING You're an illegitimate bee,
+ENTER
+HOME
+STRING aren't you, Benson?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING He's denouncing bees!
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING Don't y'all date your cousins?
+ENTER
+HOME
+STRING (Montgomery leans over on the jury stand and stares at Adam)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Objection!
+ENTER
+HOME
+STRING (Vanessa raises her hand to object but Adam gets free. He flies straight at
+ENTER
+HOME
+STRING Montgomery)
+ENTER
+HOME
+STRING =ADAM:
+ENTER
+HOME
+STRING - I'm going to pincushion this guy!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Adam, don't! It's what he wants!
+ENTER
+HOME
+STRING (Adam stings Montgomery in the butt and he starts thrashing around)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING Oh, I'm hit!!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Oh, lordy, I am hit!
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING (Banging gavel)
+ENTER
+HOME
+STRING Order! Order!
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING (Overreacting)
+ENTER
+HOME
+STRING The venom! The venom
+ENTER
+HOME
+STRING is coursing through my veins!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I have been felled
+ENTER
+HOME
+STRING by a winged beast of destruction!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You see? You can't treat them
+ENTER
+HOME
+STRING like equals! They're striped savages!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Stinging's the only thing
+ENTER
+HOME
+STRING they know! It's their way!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Adam, stay with me.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - I can't feel my legs.
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING (Overreacting and throwing his body around the room)
+ENTER
+HOME
+STRING What angel of mercy
+ENTER
+HOME
+STRING will come forward to suck the poison
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING from my heaving buttocks?
+ENTER
+HOME
+STRING JUDGE BUMLBETON:
+ENTER
+HOME
+STRING I will have order in this court. Order!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Order, please!
+ENTER
+HOME
+STRING (Flash forward in time and we see a human news reporter)
+ENTER
+HOME
+STRING NEWS REPORTER:
+ENTER
+HOME
+STRING The case of the honeybees
+ENTER
+HOME
+STRING versus the human race
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING took a pointed turn against the bees
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING yesterday when one of their legal
+ENTER
+HOME
+STRING team stung Layton T. Montgomery.
+ENTER
+HOME
+STRING (Adam is laying in a hospital bed and Barry flies in to see him)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Hey, buddy.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Hey.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Is there much pain?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Yeah.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I blew the whole case, didn't I?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING It doesn't matter. What matters is
+ENTER
+HOME
+STRING you're alive. You could have died.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING I'd be better off dead. Look at me.
+ENTER
+HOME
+STRING (A small plastic sword is replaced as Adam's stinger)
+ENTER
+HOME
+STRING They got it from the cafeteria
+ENTER
+HOME
+STRING downstairs, in a tuna sandwich.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Look, there's
+ENTER
+HOME
+STRING a little celery still on it.
+ENTER
+HOME
+STRING (Flicks off the celery and sighs)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What was it like to sting someone?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING I can't explain it. It was all...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING All adrenaline and then...
+ENTER
+HOME
+STRING and then ecstasy!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING ...All right.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING You think it was all a trap?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Of course. I'm sorry.
+ENTER
+HOME
+STRING I flew us right into this.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING What were we thinking? Look at us. We're
+ENTER
+HOME
+STRING just a couple of bugs in this world.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING What will the humans do to us
+ENTER
+HOME
+STRING if they win?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I don't know.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING I hear they put the roaches in motels.
+ENTER
+HOME
+STRING That doesn't sound so bad.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Adam, they check in,
+ENTER
+HOME
+STRING but they don't check out!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Oh, my.
+ENTER
+HOME
+STRING (Coughs)
+ENTER
+HOME
+STRING Could you get a nurse
+ENTER
+HOME
+STRING to close that window?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Why?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - The smoke.
+ENTER
+HOME
+STRING (We can see that two humans are smoking cigarettes outside)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Bees don't smoke.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Right. Bees don't smoke.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Bees don't smoke!
+ENTER
+HOME
+STRING But some bees are smoking.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING That's it! That's our case!
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING It is? It's not over?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Get dressed. I've gotta go somewhere.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Get back to the court and stall.
+ENTER
+HOME
+STRING Stall any way you can.
+ENTER
+HOME
+STRING (Flash forward in time and Adam is making a paper boat in the courtroom)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING And assuming you've done step 29 correctly, you're ready for the tub!
+ENTER
+HOME
+STRING (We see that the jury have each made their own paper boats after being
+ENTER
+HOME
+STRING taught how by Adam. They all look confused)
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Mr. Flayman.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Yes? Yes, Your Honor!
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING Where is the rest of your team?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING (Continues stalling)
+ENTER
+HOME
+STRING Well, Your Honor, it's interesting.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Bees are trained to fly haphazardly,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING and as a result,
+ENTER
+HOME
+STRING we don't make very good time.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I actually heard a funny story about...
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING Your Honor,
+ENTER
+HOME
+STRING haven't these ridiculous bugs
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING taken up enough
+ENTER
+HOME
+STRING of this court's valuable time?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING How much longer will we allow
+ENTER
+HOME
+STRING these absurd shenanigans to go on?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING They have presented no compelling
+ENTER
+HOME
+STRING evidence to support their charges
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING against my clients,
+ENTER
+HOME
+STRING who run legitimate businesses.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I move for a complete dismissal
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING of this entire case!
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING Mr. Flayman, I'm afraid I'm going
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING to have to consider
+ENTER
+HOME
+STRING Mr. Montgomery's motion.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING But you can't! We have a terrific case.
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING Where is your proof?
+ENTER
+HOME
+STRING Where is the evidence?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Show me the smoking gun!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Barry flies in through the door)
+ENTER
+HOME
+STRING Hold it, Your Honor!
+ENTER
+HOME
+STRING You want a smoking gun?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Here is your smoking gun.
+ENTER
+HOME
+STRING (Vanessa walks in holding a bee smoker. She sets it down on the Judge's
+ENTER
+HOME
+STRING podium)
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING What is that?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING It's a bee smoker!
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING (Picks up smoker)
+ENTER
+HOME
+STRING What, this?
+ENTER
+HOME
+STRING This harmless little contraption?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING This couldn't hurt a fly,
+ENTER
+HOME
+STRING let alone a bee.
+ENTER
+HOME
+STRING (Montgomery accidentally fires it at the bees in the crowd and they faint
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING and cough)
+ENTER
+HOME
+STRING (Dozens of reporters start taking pictures of the suffering bees)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Look at what has happened
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING to bees who have never been asked,
+ENTER
+HOME
+STRING "Smoking or non?"
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Is this what nature intended for us?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING To be forcibly addicted
+ENTER
+HOME
+STRING to smoke machines
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING and man-made wooden slat work camps?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Living out our lives as honey slaves
+ENTER
+HOME
+STRING to the white man?
+ENTER
+HOME
+STRING (Barry points to the honey industry owners. One of them is an African
+ENTER
+HOME
+STRING American so he awkwardly separates himself from the others)
+ENTER
+HOME
+STRING LAWYER:
+ENTER
+HOME
+STRING - What are we gonna do?
+ENTER
+HOME
+STRING - He's playing the species card.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Ladies and gentlemen, please,
+ENTER
+HOME
+STRING free these bees!
+ENTER
+HOME
+STRING ADAM AND VANESSA:
+ENTER
+HOME
+STRING Free the bees! Free the bees!
+ENTER
+HOME
+STRING BEES IN CROWD:
+ENTER
+HOME
+STRING Free the bees!
+ENTER
+HOME
+STRING HUMAN JURY:
+ENTER
+HOME
+STRING Free the bees! Free the bees!
+ENTER
+HOME
+STRING JUDGE BUMBLETON:
+ENTER
+HOME
+STRING The court finds in favor of the bees!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Vanessa, we won!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I knew you could do it! High-five!
+ENTER
+HOME
+STRING (Vanessa hits Barry hard because her hand is too big)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Sorry.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Overjoyed)
+ENTER
+HOME
+STRING I'm OK! You know what this means?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING All the honey
+ENTER
+HOME
+STRING will finally belong to the bees.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Now we won't have
+ENTER
+HOME
+STRING to work so hard all the time.
+ENTER
+HOME
+STRING MONTGOMERY:
+ENTER
+HOME
+STRING This is an unholy perversion
+ENTER
+HOME
+STRING of the balance of nature, Benson.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You'll regret this.
+ENTER
+HOME
+STRING (Montgomery leaves and Barry goes outside the courtroom. Several reporters
+ENTER
+HOME
+STRING start asking Barry questions)
+ENTER
+HOME
+STRING REPORTER 1#:
+ENTER
+HOME
+STRING Barry, how much honey is out there?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING All right. One at a time.
+ENTER
+HOME
+STRING REPORTER 2#:
+ENTER
+HOME
+STRING Barry, who are you wearing?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING My sweater is Ralph Lauren,
+ENTER
+HOME
+STRING and I have no pants.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (Barry flies outside with the paparazzi and Adam and Vanessa stay back)
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING (To Vanessa)
+ENTER
+HOME
+STRING - What if Montgomery's right?
+ENTER
+HOME
+STRING Vanessa:
+ENTER
+HOME
+STRING - What do you mean?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING We've been living the bee way
+ENTER
+HOME
+STRING a long time, 27 million years.
+ENTER
+HOME
+STRING (Flash forward in time and Barry is talking to a man)
+ENTER
+HOME
+STRING BUSINESS MAN:
+ENTER
+HOME
+STRING Congratulations on your victory.
+ENTER
+HOME
+STRING What will you demand as a settlement?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING First, we'll demand a complete shutdown
+ENTER
+HOME
+STRING of all bee work camps.
+ENTER
+HOME
+STRING (As Barry is talking we see a montage of men putting "closed" tape over the
+ENTER
+HOME
+STRING work camps and freeing the bees in the crappy apartments)
+ENTER
+HOME
+STRING Then we want back the honey
+ENTER
+HOME
+STRING that was ours to begin with,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING every last drop.
+ENTER
+HOME
+STRING (Men in suits are pushing all the honey of the aisle and into carts)
+ENTER
+HOME
+STRING We demand an end to the glorification
+ENTER
+HOME
+STRING of the bear as anything more
+ENTER
+HOME
+STRING (We see a statue of a bear-shaped honey container being pulled down by
+ENTER
+HOME
+STRING bees)
+ENTER
+HOME
+STRING than a filthy, smelly,
+ENTER
+HOME
+STRING bad-breath stink machine.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We're all aware
+ENTER
+HOME
+STRING of what they do in the woods.
+ENTER
+HOME
+STRING (We see Winnie the Pooh sharing his honey with Piglet in the cross-hairs of
+ENTER
+HOME
+STRING a high-tech sniper rifle)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Looking through binoculars)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Wait for my signal.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Take him out.
+ENTER
+HOME
+STRING (Winnie gets hit by a tranquilizer dart and dramatically falls off the log
+ENTER
+HOME
+STRING he was standing on, his tongue hanging out. Piglet looks at Pooh in fear
+ENTER
+HOME
+STRING and the Sniper takes the honey.)
+ENTER
+HOME
+STRING SNIPER:
+ENTER
+HOME
+STRING He'll have nausea
+ENTER
+HOME
+STRING for a few hours, then he'll be fine.
+ENTER
+HOME
+STRING (Flash forward in time)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING And we will no longer tolerate
+ENTER
+HOME
+STRING bee-negative nicknames...
+ENTER
+HOME
+STRING (Mr. Sting is sitting at home until he is taken out of his house by the men
+ENTER
+HOME
+STRING in suits)
+ENTER
+HOME
+STRING STING:
+ENTER
+HOME
+STRING But it's just a prance-about stage name!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING ...unnecessary inclusion of honey
+ENTER
+HOME
+STRING in bogus health products
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING and la-dee-da human
+ENTER
+HOME
+STRING tea-time snack garnishments.
+ENTER
+HOME
+STRING (An old lady is mixing honey into her tea but suddenly men in suits smash
+ENTER
+HOME
+STRING her face down on the table and take the honey)
+ENTER
+HOME
+STRING OLD LADY:
+ENTER
+HOME
+STRING Can't breathe.
+ENTER
+HOME
+STRING (A honey truck pulls up to Barry's hive)
+ENTER
+HOME
+STRING WORKER:
+ENTER
+HOME
+STRING Bring it in, boys!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Hold it right there! Good.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Tap it.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (Tons of honey is being pumped into the hive's storage)
+ENTER
+HOME
+STRING BEE WORKER 1#:
+ENTER
+HOME
+STRING (Honey overflows from the cup)
+ENTER
+HOME
+STRING Mr. Buzzwell, we just passed three cups,
+ENTER
+HOME
+STRING and there's gallons more coming!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - I think we need to shut down!
+ENTER
+HOME
+STRING =BEE WORKER #2=
+ENTER
+HOME
+STRING - Shut down? We've never shut down.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Shut down honey production!
+ENTER
+HOME
+STRING DEAN BUZZWELL:
+ENTER
+HOME
+STRING Stop making honey!
+ENTER
+HOME
+STRING (The bees all leave their stations. Two bees run into a room and they put
+ENTER
+HOME
+STRING the keys into a machine)
+ENTER
+HOME
+STRING Turn your key, sir!
+ENTER
+HOME
+STRING (Two worker bees dramatically turn their keys, which opens the button which
+ENTER
+HOME
+STRING they press, shutting down the honey-making machines. This is the first time
+ENTER
+HOME
+STRING this has ever happened)
+ENTER
+HOME
+STRING BEE:
+ENTER
+HOME
+STRING ...What do we do now?
+ENTER
+HOME
+STRING (Flash forward in time and a Bee is about to jump into a pool full of
+ENTER
+HOME
+STRING honey)
+ENTER
+HOME
+STRING Cannonball!
+ENTER
+HOME
+STRING (The bee gets stuck in the honey and we get a short montage of Bees leaving
+ENTER
+HOME
+STRING work)
+ENTER
+HOME
+STRING (We see the Pollen Jocks flying but one of them gets a call on his antenna)
+ENTER
+HOME
+STRING LOU LU DUVA:
+ENTER
+HOME
+STRING (Through "phone")
+ENTER
+HOME
+STRING We're shutting honey production!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Mission abort.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING Aborting pollination and nectar detail.
+ENTER
+HOME
+STRING Returning to base.
+ENTER
+HOME
+STRING (The Pollen Jocks fly back to the hive)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (We get a time lapse of Central Park slowly wilting away as the bees all
+ENTER
+HOME
+STRING relax)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Adam, you wouldn't believe
+ENTER
+HOME
+STRING how much honey was out there.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Oh, yeah?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What's going on? Where is everybody?
+ENTER
+HOME
+STRING (The entire street is deserted)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Are they out celebrating?
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - They're home.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING They don't know what to do.
+ENTER
+HOME
+STRING Laying out, sleeping in.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I heard your Uncle Carl was on his way
+ENTER
+HOME
+STRING to San Antonio with a cricket.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING At least we got our honey back.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Sometimes I think, so what if humans
+ENTER
+HOME
+STRING liked our honey? Who wouldn't?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING It's the greatest thing in the world!
+ENTER
+HOME
+STRING I was excited to be part of making it.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING This was my new desk. This was my
+ENTER
+HOME
+STRING new job. I wanted to do it really well.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING And now...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Now I can't.
+ENTER
+HOME
+STRING (Flash forward in time and Barry is talking to Vanessa)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I don't understand
+ENTER
+HOME
+STRING why they're not happy.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I thought their lives would be better!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING They're doing nothing. It's amazing.
+ENTER
+HOME
+STRING Honey really changes people.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You don't have any idea
+ENTER
+HOME
+STRING what's going on, do you?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - What did you want to show me?
+ENTER
+HOME
+STRING (Vanessa takes Barry to the rooftop where they first had coffee and points
+ENTER
+HOME
+STRING to her store)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - This.
+ENTER
+HOME
+STRING (Points at her flowers. They are all grey and wilting)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What happened here?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING That is not the half of it.
+ENTER
+HOME
+STRING (Small flash forward in time and Vanessa and Barry are on the roof of her
+ENTER
+HOME
+STRING store and she points to Central Park)
+ENTER
+HOME
+STRING (We see that Central Park is no longer green and colorful, rather it is
+ENTER
+HOME
+STRING grey, brown, and dead-like. It is very depressing to look at)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Oh, no. Oh, my.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING They're all wilting.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Doesn't look very good, does it?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING No.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING And whose fault do you think that is?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING You know, I'm gonna guess bees.
+ENTER
+HOME
+STRING VANESSA==
+ENTER
+HOME
+STRING (Staring at Barry)
+ENTER
+HOME
+STRING Bees?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Specifically, me.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I didn't think bees not needing to make
+ENTER
+HOME
+STRING honey would affect all these things.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING It's not just flowers.
+ENTER
+HOME
+STRING Fruits, vegetables, they all need bees.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING That's our whole SAT test right there.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Take away produce, that affects
+ENTER
+HOME
+STRING the entire animal kingdom.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING And then, of course...
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING The human species?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING So if there's no more pollination,
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING it could all just go south here,
+ENTER
+HOME
+STRING couldn't it?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I know this is also partly my fault.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING How about a suicide pact?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING How do we do it?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I'll sting you, you step on me.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - That just kills you twice.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Right, right.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Listen, Barry...
+ENTER
+HOME
+STRING sorry, but I gotta get going.
+ENTER
+HOME
+STRING (Vanessa leaves)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (To himself)
+ENTER
+HOME
+STRING I had to open my mouth and talk.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Vanessa?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Vanessa? Why are you leaving?
+ENTER
+HOME
+STRING Where are you going?
+ENTER
+HOME
+STRING (Vanessa is getting into a taxi)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING To the final Tournament of Roses parade
+ENTER
+HOME
+STRING in Pasadena.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING They've moved it to this weekend
+ENTER
+HOME
+STRING because all the flowers are dying.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING It's the last chance
+ENTER
+HOME
+STRING I'll ever have to see it.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Vanessa, I just wanna say I'm sorry.
+ENTER
+HOME
+STRING I never meant it to turn out like this.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I know. Me neither.
+ENTER
+HOME
+STRING (The taxi starts to drive away)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Tournament of Roses.
+ENTER
+HOME
+STRING Roses can't do sports.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Wait a minute. Roses. Roses?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Roses!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Vanessa!
+ENTER
+HOME
+STRING (Barry flies after the Taxi)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Roses?!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Barry?
+ENTER
+HOME
+STRING (Barry is flying outside the window of the taxi)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Roses are flowers!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Yes, they are.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Flowers, bees, pollen!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I know.
+ENTER
+HOME
+STRING That's why this is the last parade.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Maybe not.
+ENTER
+HOME
+STRING Could you ask him to slow down?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Could you slow down?
+ENTER
+HOME
+STRING (The taxi driver screeches to a stop and Barry keeps flying forward)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Barry!
+ENTER
+HOME
+STRING (Barry flies back to the window)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING OK, I made a huge mistake.
+ENTER
+HOME
+STRING This is a total disaster, all my fault.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Yes, it kind of is.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I've ruined the planet.
+ENTER
+HOME
+STRING I wanted to help you
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING with the flower shop.
+ENTER
+HOME
+STRING I've made it worse.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Actually, it's completely closed down.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I thought maybe you were remodeling.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING But I have another idea, and it's
+ENTER
+HOME
+STRING greater than my previous ideas combined.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I don't want to hear it!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING All right, they have the roses,
+ENTER
+HOME
+STRING the roses have the pollen.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I know every bee, plant
+ENTER
+HOME
+STRING and flower bud in this park.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING All we gotta do is get what they've got
+ENTER
+HOME
+STRING back here with what we've got.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Bees.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Park.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Pollen!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Flowers.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Re-pollination!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Across the nation!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Tournament of Roses,
+ENTER
+HOME
+STRING Pasadena, California.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING They've got nothing
+ENTER
+HOME
+STRING but flowers, floats and cotton candy.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Security will be tight.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I have an idea.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (Flash forward in time. Vanessa is about to board a plane which has all the
+ENTER
+HOME
+STRING Roses on board.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Vanessa Bloome, FTD.
+ENTER
+HOME
+STRING (Holds out badge)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Official floral business. It's real.
+ENTER
+HOME
+STRING SECURITY GUARD:
+ENTER
+HOME
+STRING Sorry, ma'am. Nice brooch.
+ENTER
+HOME
+STRING =VANESSA==
+ENTER
+HOME
+STRING Thank you. It was a gift.
+ENTER
+HOME
+STRING (Barry is revealed to be hiding inside the brooch)
+ENTER
+HOME
+STRING (Flash back in time and Barry and Vanessa are discussing their plan)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Once inside,
+ENTER
+HOME
+STRING we just pick the right float.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING How about The Princess and the Pea?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I could be the princess,
+ENTER
+HOME
+STRING and you could be the pea!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Yes, I got it.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Where should I sit?
+ENTER
+HOME
+STRING GUARD:
+ENTER
+HOME
+STRING - What are you?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I believe I'm the pea.
+ENTER
+HOME
+STRING GUARD:
+ENTER
+HOME
+STRING - The pea?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING It goes under the mattresses.
+ENTER
+HOME
+STRING GUARD:
+ENTER
+HOME
+STRING - Not in this fairy tale, sweetheart.
+ENTER
+HOME
+STRING - I'm getting the marshal.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You do that!
+ENTER
+HOME
+STRING This whole parade is a fiasco!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Let's see what this baby'll do.
+ENTER
+HOME
+STRING (Vanessa drives the float through traffic)
+ENTER
+HOME
+STRING GUARD:
+ENTER
+HOME
+STRING Hey, what are you doing?!
+ENTER
+HOME
+STRING BARRY==
+ENTER
+HOME
+STRING Then all we do
+ENTER
+HOME
+STRING is blend in with traffic...
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING ...without arousing suspicion.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Once at the airport,
+ENTER
+HOME
+STRING there's no stopping us.
+ENTER
+HOME
+STRING (Flash forward in time and Barry and Vanessa are about to get on a plane)
+ENTER
+HOME
+STRING SECURITY GUARD:
+ENTER
+HOME
+STRING Stop! Security.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - You and your insect pack your float?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Yes.
+ENTER
+HOME
+STRING SECURITY GUARD:
+ENTER
+HOME
+STRING Has it been
+ENTER
+HOME
+STRING in your possession the entire time?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Yes.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING SECURITY GUARD:
+ENTER
+HOME
+STRING Would you remove your shoes?
+ENTER
+HOME
+STRING (To Barry)
+ENTER
+HOME
+STRING - Remove your stinger.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - It's part of me.
+ENTER
+HOME
+STRING SECURITY GUARD:
+ENTER
+HOME
+STRING I know. Just having some fun.
+ENTER
+HOME
+STRING Enjoy your flight.
+ENTER
+HOME
+STRING (Barry plotting with Vanessa)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Then if we're lucky, we'll have
+ENTER
+HOME
+STRING just enough pollen to do the job.
+ENTER
+HOME
+STRING (Flash forward in time and Barry and Vanessa are flying on the plane)
+ENTER
+HOME
+STRING Can you believe how lucky we are? We
+ENTER
+HOME
+STRING have just enough pollen to do the job!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I think this is gonna work.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING It's got to work.
+ENTER
+HOME
+STRING CAPTAIN SCOTT:
+ENTER
+HOME
+STRING (On intercom)
+ENTER
+HOME
+STRING Attention, passengers,
+ENTER
+HOME
+STRING this is Captain Scott.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We have a bit of bad weather
+ENTER
+HOME
+STRING in New York.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING It looks like we'll experience
+ENTER
+HOME
+STRING a couple hours delay.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Barry, these are cut flowers
+ENTER
+HOME
+STRING with no water. They'll never make it.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING I gotta get up there
+ENTER
+HOME
+STRING and talk to them.
+ENTER
+HOME
+STRING VANESSA==
+ENTER
+HOME
+STRING Be careful.
+ENTER
+HOME
+STRING (Barry flies right outside the cockpit door)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Can I get help
+ENTER
+HOME
+STRING with the Sky Mall magazine?
+ENTER
+HOME
+STRING I'd like to order the talking
+ENTER
+HOME
+STRING inflatable nose and ear hair trimmer.
+ENTER
+HOME
+STRING (The flight attendant opens the door and walks out and Barry flies into the
+ENTER
+HOME
+STRING cockpit unseen)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Captain, I'm in a real situation.
+ENTER
+HOME
+STRING CAPTAIN SCOTT:
+ENTER
+HOME
+STRING - What'd you say, Hal?
+ENTER
+HOME
+STRING CO-PILOT HAL:
+ENTER
+HOME
+STRING - Nothing.
+ENTER
+HOME
+STRING (Scott notices Barry and freaks out)
+ENTER
+HOME
+STRING CAPTAIN SCOTT:
+ENTER
+HOME
+STRING Bee!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING No,no,no, Don't freak out! My entire species...
+ENTER
+HOME
+STRING (Captain Scott gets out of his seat and tries to suck Barry into a handheld
+ENTER
+HOME
+STRING vacuum)
+ENTER
+HOME
+STRING HAL:
+ENTER
+HOME
+STRING (To Scott)
+ENTER
+HOME
+STRING What are you doing?
+ENTER
+HOME
+STRING (Barry lands on Hals hair but Scott sees him. He tries to suck up Barry but
+ENTER
+HOME
+STRING instead he sucks up Hals toupee)
+ENTER
+HOME
+STRING CAPTAIN SCOTT:
+ENTER
+HOME
+STRING Uh-oh.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Wait a minute! I'm an attorney!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING HAL:
+ENTER
+HOME
+STRING (Hal doesn't know Barry is on his head)
+ENTER
+HOME
+STRING - Who's an attorney?
+ENTER
+HOME
+STRING CAPTAIN SCOTT:
+ENTER
+HOME
+STRING Don't move.
+ENTER
+HOME
+STRING (Scott hits Hal in the face with the vacuum in an attempt to hit Barry. Hal
+ENTER
+HOME
+STRING is knocked out and he falls on the life raft button which launches an
+ENTER
+HOME
+STRING infalatable boat into Scott, who gets knocked out and falls to the floor.
+ENTER
+HOME
+STRING They are both uncounscious.)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (To himself)
+ENTER
+HOME
+STRING Oh, Barry.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (On intercom, with a Southern accent)
+ENTER
+HOME
+STRING Good afternoon, passengers.
+ENTER
+HOME
+STRING This is your captain.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Would a Miss Vanessa Bloome in 24B
+ENTER
+HOME
+STRING please report to the cockpit?
+ENTER
+HOME
+STRING (Vanessa looks confused)
+ENTER
+HOME
+STRING (Normal accent)
+ENTER
+HOME
+STRING ...And please hurry!
+ENTER
+HOME
+STRING (Vanessa opens the door and sees the life raft and the uncounscious pilots)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING What happened here?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I tried to talk to them, but
+ENTER
+HOME
+STRING then there was a DustBuster,
+ENTER
+HOME
+STRING a toupee, a life raft exploded.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Now one's bald, one's in a boat,
+ENTER
+HOME
+STRING and they're both unconscious!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING ...Is that another bee joke?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING - No!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING No one's flying the plane!
+ENTER
+HOME
+STRING BUD DITCHWATER:
+ENTER
+HOME
+STRING (Through radio on plane)
+ENTER
+HOME
+STRING This is JFK control tower, Flight 356.
+ENTER
+HOME
+STRING What's your status?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING This is Vanessa Bloome.
+ENTER
+HOME
+STRING I'm a florist from New York.
+ENTER
+HOME
+STRING BUD:
+ENTER
+HOME
+STRING Where's the pilot?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING He's unconscious,
+ENTER
+HOME
+STRING and so is the copilot.
+ENTER
+HOME
+STRING BUD:
+ENTER
+HOME
+STRING Not good. Does anyone onboard
+ENTER
+HOME
+STRING have flight experience?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING As a matter of fact, there is.
+ENTER
+HOME
+STRING BUD:
+ENTER
+HOME
+STRING - Who's that?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Barry Benson.
+ENTER
+HOME
+STRING BUD:
+ENTER
+HOME
+STRING From the honey trial?! Oh, great.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Vanessa, this is nothing more
+ENTER
+HOME
+STRING than a big metal bee.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING It's got giant wings, huge engines.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I can't fly a plane.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Why not? Isn't John Travolta a pilot?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Yes.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING How hard could it be?
+ENTER
+HOME
+STRING (Vanessa sits down and flies for a little bit but we see lightning clouds
+ENTER
+HOME
+STRING outside the window)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Wait, Barry!
+ENTER
+HOME
+STRING We're headed into some lightning.
+ENTER
+HOME
+STRING (An ominous lightning storm looms in front of the plane)
+ENTER
+HOME
+STRING (We are now watching the Bee News)
+ENTER
+HOME
+STRING BOB BUMBLE:
+ENTER
+HOME
+STRING This is Bob Bumble. We have some
+ENTER
+HOME
+STRING late-breaking news from JFK Airport,
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING where a suspenseful scene
+ENTER
+HOME
+STRING is developing.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Barry Benson,
+ENTER
+HOME
+STRING fresh from his legal victory...
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING That's Barry!
+ENTER
+HOME
+STRING BOB BUMBLE:
+ENTER
+HOME
+STRING ...is attempting to land a plane,
+ENTER
+HOME
+STRING loaded with people, flowers
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING and an incapacitated flight crew.
+ENTER
+HOME
+STRING JANET, MARTIN, UNCLE CAR AND ADAM:
+ENTER
+HOME
+STRING Flowers?!
+ENTER
+HOME
+STRING (The scene switches to the human news)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING REPORTER:
+ENTER
+HOME
+STRING (Talking with Bob Bumble)
+ENTER
+HOME
+STRING We have a storm in the area
+ENTER
+HOME
+STRING and two individuals at the controls
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING with absolutely no flight experience.
+ENTER
+HOME
+STRING BOB BUMBLE:
+ENTER
+HOME
+STRING Just a minute.
+ENTER
+HOME
+STRING There's a bee on that plane.
+ENTER
+HOME
+STRING BUD:
+ENTER
+HOME
+STRING I'm quite familiar with Mr. Benson
+ENTER
+HOME
+STRING and his no-account compadres.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING They've done enough damage.
+ENTER
+HOME
+STRING REPORTER:
+ENTER
+HOME
+STRING But isn't he your only hope?
+ENTER
+HOME
+STRING BUD:
+ENTER
+HOME
+STRING Technically, a bee
+ENTER
+HOME
+STRING shouldn't be able to fly at all.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Their wings are too small...
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Through radio)
+ENTER
+HOME
+STRING Haven't we heard this a million times?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING "The surface area of the wings
+ENTER
+HOME
+STRING and body mass make no sense."...
+ENTER
+HOME
+STRING BOB BUMBLE:
+ENTER
+HOME
+STRING - Get this on the air!
+ENTER
+HOME
+STRING BEE:
+ENTER
+HOME
+STRING - Got it.
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BEE NEWS CREW:
+ENTER
+HOME
+STRING - Stand by.
+ENTER
+HOME
+STRING BEE NEWS CREW:
+ENTER
+HOME
+STRING - We're going live!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Through radio on TV)
+ENTER
+HOME
+STRING ...The way we work may be a mystery to you.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Making honey takes a lot of bees
+ENTER
+HOME
+STRING doing a lot of small jobs.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING But let me tell you about a small job.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING If you do it well,
+ENTER
+HOME
+STRING it makes a big difference.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING More than we realized.
+ENTER
+HOME
+STRING To us, to everyone.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING That's why I want to get bees
+ENTER
+HOME
+STRING back to working together.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING That's the bee way!
+ENTER
+HOME
+STRING We're not made of Jell-O.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We get behind a fellow.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Black and yellow!
+ENTER
+HOME
+STRING BEES:
+ENTER
+HOME
+STRING - Hello!
+ENTER
+HOME
+STRING (The scene switches and Barry is teaching Vanessa how to fly)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING Left, right, down, hover.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Hover?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Forget hover.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING This isn't so hard.
+ENTER
+HOME
+STRING (Pretending to honk the horn)
+ENTER
+HOME
+STRING Beep-beep! Beep-beep!
+ENTER
+HOME
+STRING (A Lightning bolt hits the plane and autopilot turns off)
+ENTER
+HOME
+STRING Barry, what happened?!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Wait, I think we were
+ENTER
+HOME
+STRING on autopilot the whole time.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - That may have been helping me.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - And now we're not!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING So it turns out I cannot fly a plane.
+ENTER
+HOME
+STRING (The plane plummets but we see Lou Lu Duva and the Pollen Jocks, along with
+ENTER
+HOME
+STRING multiple other bees flying towards the plane)
+ENTER
+HOME
+STRING Lou Lu DUva:
+ENTER
+HOME
+STRING All of you, let's get
+ENTER
+HOME
+STRING behind this fellow! Move it out!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Move out!
+ENTER
+HOME
+STRING (The scene switches back to Vanessa and Barry in the plane)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Our only chance is if I do what I'd do,
+ENTER
+HOME
+STRING you copy me with the wings of the plane!
+ENTER
+HOME
+STRING (Barry sticks out his arms like an airplane and flys in front of Vanessa's
+ENTER
+HOME
+STRING face)
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Don't have to yell.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I'm not yelling!
+ENTER
+HOME
+STRING We're in a lot of trouble.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING It's very hard to concentrate
+ENTER
+HOME
+STRING with that panicky tone in your voice!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING It's not a tone. I'm panicking!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I can't do this!
+ENTER
+HOME
+STRING (Barry slaps Vanessa)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Vanessa, pull yourself together.
+ENTER
+HOME
+STRING You have to snap out of it!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING (Slaps Barry)
+ENTER
+HOME
+STRING You snap out of it.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Slaps Vanessa)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You snap out of it.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - You snap out of it!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - You snap out of it!
+ENTER
+HOME
+STRING (We see that all the Pollen Jocks are flying under the plane)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - You snap out of it!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - You snap out of it!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - You snap out of it!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - You snap out of it!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Hold it!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Why? Come on, it's my turn.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING How is the plane flying?
+ENTER
+HOME
+STRING (The plane is now safely flying)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING I don't know.
+ENTER
+HOME
+STRING (Barry's antennae rings like a phone. Barry picks up)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Hello?
+ENTER
+HOME
+STRING LOU LU DUVA:
+ENTER
+HOME
+STRING (Through "phone")
+ENTER
+HOME
+STRING Benson, got any flowers
+ENTER
+HOME
+STRING for a happy occasion in there?
+ENTER
+HOME
+STRING (All of the Pollen Jocks are carrying the plane)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING The Pollen Jocks!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING They do get behind a fellow.
+ENTER
+HOME
+STRING LOU LU DUVA:
+ENTER
+HOME
+STRING - Black and yellow.
+ENTER
+HOME
+STRING POLLEN JOCKS:
+ENTER
+HOME
+STRING - Hello.
+ENTER
+HOME
+STRING LOU LU DUVA:
+ENTER
+HOME
+STRING All right, let's drop this tin can
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING on the blacktop.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Where? I can't see anything. Can you?
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING No, nothing. It's all cloudy.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Come on. You got to think bee, Barry.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Thinking bee.
+ENTER
+HOME
+STRING - Thinking bee.
+ENTER
+HOME
+STRING (On the runway there are millions of bees laying on their backs)
+ENTER
+HOME
+STRING BEES:
+ENTER
+HOME
+STRING Thinking bee!
+ENTER
+HOME
+STRING Thinking bee! Thinking bee!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Wait a minute.
+ENTER
+HOME
+STRING I think I'm feeling something.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - What?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - I don't know. It's strong, pulling me.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Like a 27-million-year-old instinct.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Bring the nose down.
+ENTER
+HOME
+STRING BEES:
+ENTER
+HOME
+STRING Thinking bee!
+ENTER
+HOME
+STRING Thinking bee! Thinking bee!
+ENTER
+HOME
+STRING CONTROL TOWER OPERATOR:
+ENTER
+HOME
+STRING - What in the world is on the tarmac?
+ENTER
+HOME
+STRING BUD:
+ENTER
+HOME
+STRING - Get some lights on that!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING (It is revealed that all the bees are organized into a giant pulsating
+ENTER
+HOME
+STRING flower formation)
+ENTER
+HOME
+STRING BEES:
+ENTER
+HOME
+STRING Thinking bee!
+ENTER
+HOME
+STRING Thinking bee! Thinking bee!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Vanessa, aim for the flower.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - OK.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Out the engines. We're going in
+ENTER
+HOME
+STRING on bee power. Ready, boys?
+ENTER
+HOME
+STRING LOU LU DUVA:
+ENTER
+HOME
+STRING Affirmative!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Good. Good. Easy, now. That's it.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Land on that flower!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Ready? Full reverse!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Spin it around!
+ENTER
+HOME
+STRING (The plane's nose is pointed at a flower painted on a nearby plane)
+ENTER
+HOME
+STRING - Not that flower! The other one!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Which one?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - That flower.
+ENTER
+HOME
+STRING (The plane is now pointed at a fat guy in a flowered shirt. He freaks out
+ENTER
+HOME
+STRING and tries to take a picture of the plane)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - I'm aiming at the flower!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING That's a fat guy in a flowered shirt.
+ENTER
+HOME
+STRING I mean the giant pulsating flower
+ENTER
+HOME
+STRING made of millions of bees!
+ENTER
+HOME
+STRING (The plane hovers over the bee-flower)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Pull forward. Nose down. Tail up.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Rotate around it.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - This is insane, Barry!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - This's the only way I know how to fly.
+ENTER
+HOME
+STRING BUD:
+ENTER
+HOME
+STRING Am I koo-koo-kachoo, or is this plane
+ENTER
+HOME
+STRING flying in an insect-like pattern?
+ENTER
+HOME
+STRING (The plane is unrealistically hovering and spinning over the bee-flower)
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Get your nose in there. Don't be afraid.
+ENTER
+HOME
+STRING Smell it. Full reverse!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Just drop it. Be a part of it.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Aim for the center!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Now drop it in! Drop it in, woman!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Come on, already.
+ENTER
+HOME
+STRING (The bees scatter and the plane safely lands)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Barry, we did it!
+ENTER
+HOME
+STRING You taught me how to fly!
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Yes!
+ENTER
+HOME
+STRING (Vanessa is about to high-five Barry)
+ENTER
+HOME
+STRING No high-five!
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING - Right.
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING Barry, it worked!
+ENTER
+HOME
+STRING Did you see the giant flower?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING What giant flower? Where? Of course
+ENTER
+HOME
+STRING I saw the flower! That was genius!
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING - Thank you.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - But we're not done yet.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Listen, everyone!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING This runway is covered
+ENTER
+HOME
+STRING with the last pollen
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING from the last flowers
+ENTER
+HOME
+STRING available anywhere on Earth.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING That means this is our last chance.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING We're the only ones who make honey,
+ENTER
+HOME
+STRING pollinate flowers and dress like this.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING If we're gonna survive as a species,
+ENTER
+HOME
+STRING this is our moment! What do you say?
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Are we going to be bees, or just
+ENTER
+HOME
+STRING Museum of Natural History keychains?
+ENTER
+HOME
+STRING BEES:
+ENTER
+HOME
+STRING We're bees!
+ENTER
+HOME
+STRING BEE WHO LIKES KEYCHAINS:
+ENTER
+HOME
+STRING Keychain!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Then follow me! Except Keychain.
+ENTER
+HOME
+STRING POLLEN JOCK #1:
+ENTER
+HOME
+STRING Hold on, Barry. Here.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING You've earned this.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Yeah!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I'm a Pollen Jock! And it's a perfect
+ENTER
+HOME
+STRING fit. All I gotta do are the sleeves.
+ENTER
+HOME
+STRING (The Pollen Jocks throw Barry a nectar-collecting gun. Barry catches it)
+ENTER
+HOME
+STRING Oh, yeah.
+ENTER
+HOME
+STRING JANET:
+ENTER
+HOME
+STRING That's our Barry.
+ENTER
+HOME
+STRING (Barry and the Pollen Jocks get pollen from the flowers on the plane)
+ENTER
+HOME
+STRING (Flash forward in time and the Pollen Jocks are flying over NYC)
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING (Barry pollinates the flowers in Vanessa's shop and then heads to Central
+ENTER
+HOME
+STRING Park)
+ENTER
+HOME
+STRING BOY IN PARK:
+ENTER
+HOME
+STRING Mom! The bees are back!
+ENTER
+HOME
+STRING ADAM:
+ENTER
+HOME
+STRING (Putting on his Krelman hat)
+ENTER
+HOME
+STRING If anybody needs
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING to make a call, now's the time.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I got a feeling we'll be
+ENTER
+HOME
+STRING working late tonight!
+ENTER
+HOME
+STRING (The bee honey factories are back up and running)
+ENTER
+HOME
+STRING (Meanwhile at Vanessa's shop)
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING (To customer)
+ENTER
+HOME
+STRING Here's your change. Have a great
+ENTER
+HOME
+STRING afternoon! Can I help who's next?
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Would you like some honey with that?
+ENTER
+HOME
+STRING It is bee-approved. Don't forget these.
+ENTER
+HOME
+STRING (There is a room in the shop where Barry does legal work for other animals.
+ENTER
+HOME
+STRING He is currently talking with a Cow)
+ENTER
+HOME
+STRING COW:
+ENTER
+HOME
+STRING Milk, cream, cheese, it's all me.
+ENTER
+HOME
+STRING And I don't see a nickel!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Sometimes I just feel
+ENTER
+HOME
+STRING like a piece of meat!
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I had no idea.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Barry, I'm sorry.
+ENTER
+HOME
+STRING Have you got a moment?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Would you excuse me?
+ENTER
+HOME
+STRING My mosquito associate will help you.
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING Sorry I'm late.
+ENTER
+HOME
+STRING COW:
+ENTER
+HOME
+STRING He's a lawyer too?
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING MOOSEBLOOD:
+ENTER
+HOME
+STRING Ma'am, I was already a blood-sucking parasite.
+ENTER
+HOME
+STRING All I needed was a briefcase.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Have a great afternoon!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING Barry, I just got this huge tulip order,
+ENTER
+HOME
+STRING and I can't get them anywhere.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING No problem, Vannie.
+ENTER
+HOME
+STRING Just leave it to me.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING You're a lifesaver, Barry.
+ENTER
+HOME
+STRING Can I help who's next?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING All right, scramble, jocks!
+ENTER
+HOME
+STRING It's time to fly.
+ENTER
+HOME
+STRING VANESSA:
+ENTER
+HOME
+STRING Thank you, Barry!
+ENTER
+HOME
+STRING (Ken walks by on the sidewalk and sees the "bee-approved honey" in
+ENTER
+HOME
+STRING Vanessa's shop)
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING That bee is living my life!!
+ENTER
+HOME
+STRING ANDY:
+ENTER
+HOME
+STRING Let it go, Kenny.
+ENTER
+HOME
+STRING KEN:
+ENTER
+HOME
+STRING - When will this nightmare end?!
+ENTER
+HOME
+STRING ANDY:
+ENTER
+HOME
+STRING - Let it all go.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING - Beautiful day to fly.
+ENTER
+HOME
+STRING POLLEN JOCK:
+ENTER
+HOME
+STRING 
+ENTER
+HOME
+STRING - Sure is.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING Between you and me,
+ENTER
+HOME
+STRING I was dying to get out of that office.
+ENTER
+HOME
+STRING (Barry recreates the scene near the beginning of the movie where he flies
+ENTER
+HOME
+STRING through the box kite. The movie fades to black and the credits being)
+ENTER
+HOME
+STRING [--after credits; No scene can be seen but the characters can be heard
+ENTER
+HOME
+STRING talking over the credits--]
+ENTER
+HOME
+STRING You have got
+ENTER
+HOME
+STRING to start thinking bee, my friend!
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING - Thinking bee!
+ENTER
+HOME
+STRING - Me?
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING (Talking over singer)
+ENTER
+HOME
+STRING Hold it. Let's just stop
+ENTER
+HOME
+STRING for a second. Hold it.
+ENTER
+HOME
+STRING :
+ENTER
+HOME
+STRING I'm sorry. I'm sorry, everyone.
+ENTER
+HOME
+STRING Can we stop here?
+ENTER
+HOME
+STRING SINGER:
+ENTER
+HOME
+STRING Oh, BarryBARRY:
+ENTER
+HOME
+STRING I'm not making a major life decision
+ENTER
+HOME
+STRING during a production number!
+ENTER
+HOME
+STRING SINGER:
+ENTER
+HOME
+STRING All right. Take ten, everybody.
+ENTER
+HOME
+STRING Wrap it up, guys.
+ENTER
+HOME
+STRING BARRY:
+ENTER
+HOME
+STRING I had virtually no rehearsal for that.
+ENTER
+HOME
