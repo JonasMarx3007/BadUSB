@@ -108,9 +108,6 @@ HOME
 STRING ADAM FLAYMAN:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING (Through phone)
 ENTER
 HOME
@@ -202,9 +199,6 @@ STRING BARRY:
 ENTER
 HOME
 STRING - Ow! That's me!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING JANET:
@@ -309,9 +303,7 @@ HOME
 STRING - Hi, Barry!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
+DELAY 2000
 STRING BARRY:
 ENTER
 HOME
@@ -411,9 +403,6 @@ HOME
 STRING - Well, Adam, today we are men.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING ADAM:
 ENTER
 HOME
@@ -508,9 +497,6 @@ STRING TOUR GUIDE:
 ENTER
 HOME
 STRING Heads up! Here we go.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING ANNOUNCER:
@@ -612,15 +598,13 @@ HOME
 STRING is automatically color-corrected,
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING scent-adjusted and bubble-contoured
 ENTER
 HOME
 STRING :
 ENTER
 HOME
+DELAY 2000
 STRING into this soothing sweet syrup
 ENTER
 HOME
@@ -712,9 +696,6 @@ STRING :
 ENTER
 HOME
 STRING ADAM==
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING - What do you think he makes?
@@ -816,9 +797,6 @@ HOME
 STRING ADAM:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING What's the difference?
 ENTER
 HOME
@@ -918,9 +896,6 @@ HOME
 STRING functioning society on Earth.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY:
 ENTER
 HOME
@@ -930,6 +905,7 @@ HOME
 STRING work a little too well here?
 ENTER
 HOME
+DELAY 2000
 STRING ADAM:
 ENTER
 HOME
@@ -1018,9 +994,6 @@ STRING (The Pollen Jocks hook up their backpacks to machines that pump the necta
 ENTER
 HOME
 STRING to trucks, which drive away)
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING LOU LO DUVA:
@@ -1125,9 +1098,6 @@ HOME
 STRING (Barry waves at 2 girls standing a little away from them)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING ADAM==
 ENTER
 HOME
@@ -1224,9 +1194,6 @@ HOME
 STRING I can autograph that.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING (The pollen jocks walk up to Barry and Adam, they pretend that Barry and
 ENTER
 HOME
@@ -1239,6 +1206,7 @@ HOME
 STRING A little gusty out there today,
 ENTER
 HOME
+DELAY 2000
 STRING wasn't it, comrades?
 ENTER
 HOME
@@ -1321,9 +1289,6 @@ STRING night)
 ENTER
 HOME
 STRING MARTIN:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING Hey, Honex!
@@ -1422,9 +1387,6 @@ HOME
 STRING :
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING Janet, your son's not sure
 ENTER
 HOME
@@ -1521,9 +1483,6 @@ HOME
 STRING - We're starting work today!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY:
 ENTER
 HOME
@@ -1548,6 +1507,7 @@ HOME
 STRING JOB LISTER:
 ENTER
 HOME
+DELAY 2000
 STRING Pollen counting, stunt bee, pouring,
 ENTER
 HOME
@@ -1621,9 +1581,6 @@ STRING changing panels that contain available or unavailable jobs. It looks very
 ENTER
 HOME
 STRING confusing)
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING ADAM:
@@ -1717,9 +1674,6 @@ STRING Dead from the neck up.
 ENTER
 HOME
 STRING Dead from the neck down. That's life!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING ADAM:
@@ -1821,9 +1775,6 @@ HOME
 STRING ADAM:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING You're gonna die! You're crazy!
 ENTER
 HOME
@@ -1857,6 +1808,7 @@ HOME
 STRING BARRY:
 ENTER
 HOME
+DELAY 2000
 STRING Hey, guys.
 ENTER
 HOME
@@ -1918,9 +1870,6 @@ STRING You got a rain advisory today,
 ENTER
 HOME
 STRING :
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING and as you all know,
@@ -2019,9 +1968,6 @@ HOME
 STRING POLLEN JOCKS:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING Hello!
 ENTER
 HOME
@@ -2115,9 +2061,6 @@ HOME
 STRING So blue.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING :
 ENTER
 HOME
@@ -2166,6 +2109,7 @@ HOME
 STRING Bring it around 30 degrees and hold.
 ENTER
 HOME
+DELAY 2000
 STRING :
 ENTER
 HOME
@@ -2212,9 +2156,6 @@ STRING - No, sir.
 ENTER
 HOME
 STRING POLLEN JOCK #1:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING (Barry and the Pollen jock fly over the field, the pollen jock sprinkles
@@ -2311,9 +2252,6 @@ STRING KEN:
 ENTER
 HOME
 STRING (In the distance) That was on the line!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING POLLEN JOCK #1:
@@ -2418,9 +2356,6 @@ HOME
 STRING to it)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY==
 ENTER
 HOME
@@ -2475,6 +2410,7 @@ HOME
 STRING I don't think these are flowers.
 ENTER
 HOME
+DELAY 2000
 STRING POLLEN JOCK #3:
 ENTER
 HOME
@@ -2515,9 +2451,6 @@ STRING with Barry stuck to it and it goes flying into the city)
 ENTER
 HOME
 STRING BARRY:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING Yowser!
@@ -2625,9 +2558,6 @@ HOME
 STRING (Barry escapes the car through the air conditioner and is flying high above
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING the ground, safe.)
 ENTER
 HOME
@@ -2733,9 +2663,6 @@ HOME
 STRING What was that?
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING (Barry keeps trying to fly out the window but he keeps being knocked back
 ENTER
 HOME
@@ -2784,6 +2711,7 @@ HOME
 STRING (Ken makes finger guns and makes "pew pew pew" sounds and then stops)
 ENTER
 HOME
+DELAY 2000
 STRING :
 ENTER
 HOME
@@ -2836,9 +2764,6 @@ STRING humans are sitting at)
 ENTER
 HOME
 STRING KEN:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING I predicted global warming.
@@ -2943,9 +2868,6 @@ HOME
 STRING KEN:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING My brochure!
 ENTER
 HOME
@@ -3042,9 +2964,6 @@ HOME
 STRING - Supposed to be less calories.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING VANESSA:
 ENTER
 HOME
@@ -3093,6 +3012,7 @@ HOME
 STRING :
 ENTER
 HOME
+DELAY 2000
 STRING What would I say?
 ENTER
 HOME
@@ -3145,9 +3065,6 @@ STRING :
 ENTER
 HOME
 STRING Do it. I can't.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING :
@@ -3249,9 +3166,6 @@ HOME
 STRING I mean, you're a bee!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY:
 ENTER
 HOME
@@ -3348,9 +3262,6 @@ HOME
 STRING BARRY:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING Same way you did, I guess.
 ENTER
 HOME
@@ -3402,6 +3313,7 @@ HOME
 STRING - Like what?
 ENTER
 HOME
+DELAY 2000
 STRING VANESSA:
 ENTER
 HOME
@@ -3442,9 +3354,6 @@ STRING VANESSA:
 ENTER
 HOME
 STRING - Don't be ridiculous!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING BARRY:
@@ -3535,9 +3444,6 @@ STRING (Flash forward in time. Barry and Vanessa are sitting together at a table
 ENTER
 HOME
 STRING on top of the apartment building drinking coffee)
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING :
@@ -3636,9 +3542,6 @@ HOME
 STRING I know how you feel.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY:
 ENTER
 HOME
@@ -3711,6 +3614,7 @@ HOME
 STRING VANESSA:
 ENTER
 HOME
+DELAY 2000
 STRING No way! I know that area.
 ENTER
 HOME
@@ -3730,9 +3634,6 @@ STRING - Why not?
 ENTER
 HOME
 STRING BARRY:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING - It's like putting a hat on your knee.
@@ -3832,9 +3733,6 @@ STRING All right. Well, then...
 ENTER
 HOME
 STRING I guess I'll see you around.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING :
@@ -3942,9 +3840,6 @@ HOME
 STRING happiest moment of my life.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING ADAM:
 ENTER
 HOME
@@ -4020,6 +3915,7 @@ HOME
 STRING can pick out your job and be normal.
 ENTER
 HOME
+DELAY 2000
 STRING BARRY:
 ENTER
 HOME
@@ -4036,9 +3932,6 @@ STRING BARRY:
 ENTER
 HOME
 STRING Well, I met someone.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING ADAM:
@@ -4132,9 +4025,6 @@ STRING ADAM:
 ENTER
 HOME
 STRING Oh, no! You're dating a human florist!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING BARRY:
@@ -4233,9 +4123,6 @@ HOME
 STRING (Adam opens a door behind him and he pulls Barry in)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY:
 ENTER
 HOME
@@ -4329,13 +4216,11 @@ HOME
 STRING - Thinking bee.
 ENTER
 HOME
+DELAY 2000
 STRING WORKER BEES AND ADAM:
 ENTER
 HOME
 STRING Thinking bee! Thinking bee!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING Thinking bee! Thinking bee!
@@ -4437,9 +4322,6 @@ HOME
 STRING MARTIN:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING Barry, I'm talking to you!
 ENTER
 HOME
@@ -4539,9 +4421,6 @@ HOME
 STRING - We're still here.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING JANET:
 ENTER
 HOME
@@ -4638,9 +4517,7 @@ HOME
 STRING that's every florist's dream!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
+DELAY 2000
 STRING :
 ENTER
 HOME
@@ -4735,9 +4612,6 @@ STRING BARRY:
 ENTER
 HOME
 STRING We try not to sting.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING It's usually fatal for us.
@@ -4842,9 +4716,6 @@ HOME
 STRING (Vanessa sets Barry back on her shoulder)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING VANESSA:
 ENTER
 HOME
@@ -4941,15 +4812,13 @@ HOME
 STRING BARRY:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING You don't have
 ENTER
 HOME
 STRING enough food of your own?!
 ENTER
 HOME
+DELAY 2000
 STRING (Hector looks back and notices that Vanessa is talking to Barry)
 ENTER
 HOME
@@ -5035,9 +4904,6 @@ STRING hospitals! This is all we have!
 ENTER
 HOME
 STRING :
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING And it's on sale?!
@@ -5142,9 +5008,6 @@ HOME
 STRING Where you getting the sweet stuff?
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING Who's your supplier?
 ENTER
 HOME
@@ -5247,9 +5110,6 @@ HOME
 STRING What horrible thing has happened here?
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING :
 ENTER
 HOME
@@ -5259,6 +5119,7 @@ HOME
 STRING what hit them. And now
 ENTER
 HOME
+DELAY 2000
 STRING :
 ENTER
 HOME
@@ -5350,9 +5211,6 @@ STRING Uh-oh!
 ENTER
 HOME
 STRING (The windshield wipers are slowly sliding over the dead bugs and wiping
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING them off)
@@ -5454,9 +5312,6 @@ HOME
 STRING (Suddenly it is revealed that a water bug is also hanging on the antenna.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING There is a pause and then Barry and the water bug both start screaming)
 ENTER
 HOME
@@ -5553,9 +5408,6 @@ HOME
 STRING BARRY:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING - We're all jammed in.
 ENTER
 HOME
@@ -5568,6 +5420,7 @@ HOME
 STRING MOOSEBLOOD:
 ENTER
 HOME
+DELAY 2000
 STRING Not us, man. We on our own.
 ENTER
 HOME
@@ -5650,9 +5503,6 @@ STRING OTHER MOSQUITO:
 ENTER
 HOME
 STRING - Mooseblood!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING MOOSEBLOOD:
@@ -5749,9 +5599,6 @@ STRING A couple breaths of this
 ENTER
 HOME
 STRING knocks them right out.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING BEEKEEPER #2:
@@ -5865,9 +5712,6 @@ HOME
 STRING beekeepers look very evil in these depictions)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING Bee honey.
 ENTER
 HOME
@@ -5877,6 +5721,7 @@ HOME
 STRING Our honey is being brazenly stolen
 ENTER
 HOME
+DELAY 2000
 STRING on a massive scale!
 ENTER
 HOME
@@ -5962,9 +5807,6 @@ STRING JANET:
 ENTER
 HOME
 STRING Make out? Barry!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING BARRY:
@@ -6058,9 +5900,6 @@ STRING We live on two cups a year. They put it
 ENTER
 HOME
 STRING in lip balm for no reason whatsoever!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING ADAM:
@@ -6159,9 +5998,6 @@ HOME
 STRING JEANETTE CHUNG:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING - And I'm Jeanette Chung.
 ENTER
 HOME
@@ -6186,6 +6022,7 @@ HOME
 STRING packaging it and profiting
 ENTER
 HOME
+DELAY 2000
 STRING from it illegally!
 ENTER
 HOME
@@ -6256,9 +6093,6 @@ STRING BEE LARRY KING:
 ENTER
 HOME
 STRING Where I'm from, we'd never sue humans.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING :
@@ -6360,9 +6194,6 @@ HOME
 STRING They are arguing)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING KEN:
 ENTER
 HOME
@@ -6462,9 +6293,6 @@ HOME
 STRING VANESSA:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING Listen, you better go
 ENTER
 HOME
@@ -6495,6 +6323,7 @@ HOME
 STRING Why is yogurt night so difficult?!
 ENTER
 HOME
+DELAY 2000
 STRING (Ken leaves and Vanessa walks over to Barry. His workplace is a mess)
 ENTER
 HOME
@@ -6562,9 +6391,6 @@ STRING are giving balloon bouquets now.
 ENTER
 HOME
 STRING BARRY:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING Those are great, if you're three.
@@ -6658,9 +6484,6 @@ STRING without paying a royalty!
 ENTER
 HOME
 STRING (Flash forward in time and we are watching the human news. The camera shows
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING a crowd outside a courthouse)
@@ -6765,9 +6588,6 @@ HOME
 STRING Well, if it isn't the bee team.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING (To Honey Industry lawyers)
 ENTER
 HOME
@@ -6804,6 +6624,7 @@ HOME
 STRING is now in session.
 ENTER
 HOME
+DELAY 2000
 STRING :
 ENTER
 HOME
@@ -6865,9 +6686,6 @@ STRING my grandmother was a simple woman.
 ENTER
 HOME
 STRING :
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING Born on a farm, she believed
@@ -6964,9 +6782,6 @@ STRING JUDGE BUMBLETON:
 ENTER
 HOME
 STRING Mr. Benson?
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING BARRY:
@@ -7068,9 +6883,6 @@ HOME
 STRING So, Mr. Klauss Vanderhayden
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING of Honey Farms, big company you have.
 ENTER
 HOME
@@ -7113,6 +6925,7 @@ HOME
 STRING I don't imagine you employ
 ENTER
 HOME
+DELAY 2000
 STRING any bee-free-ers, do you?
 ENTER
 HOME
@@ -7165,9 +6978,6 @@ STRING KLAUSS:
 ENTER
 HOME
 STRING They're very lovable creatures.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING :
@@ -7269,9 +7079,6 @@ HOME
 STRING BARRY:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING No, you haven't. And so here
 ENTER
 HOME
@@ -7368,9 +7175,6 @@ HOME
 STRING with a churning inner turmoil
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING that's ready to blow.
 ENTER
 HOME
@@ -7422,6 +7226,7 @@ HOME
 STRING This isn't a goodfella.
 ENTER
 HOME
+DELAY 2000
 STRING This is a badfella!
 ENTER
 HOME
@@ -7465,9 +7270,6 @@ STRING - Say it!
 ENTER
 HOME
 STRING MAN:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING - Mr. Liotta, please sit down!
@@ -7564,9 +7366,6 @@ STRING ...the battery...
 ENTER
 HOME
 STRING VANESSA:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING I didn't want all this to go to waste,
@@ -7668,9 +7467,6 @@ HOME
 STRING the right job. We have that in common.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING KEN:
 ENTER
 HOME
@@ -7731,6 +7527,7 @@ HOME
 STRING Yeah, you do that.
 ENTER
 HOME
+DELAY 2000
 STRING (Barry flies past Ken to get to the bathroom and Ken freaks out, splashing
 ENTER
 HOME
@@ -7777,9 +7574,6 @@ STRING (Ken is menacingly rolling up a magazine)
 ENTER
 HOME
 STRING BARRY:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING (Backing away)
@@ -7882,9 +7676,6 @@ STRING WATER BUG:
 ENTER
 HOME
 STRING Water bug! Not taking sides!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING (Barry gets up out of a pile of bathroom supplies and he is wearing a
@@ -7992,9 +7783,6 @@ HOME
 STRING (Leaning towards Barry)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING You know, I don't even like honey!
 ENTER
 HOME
@@ -8040,6 +7828,7 @@ HOME
 STRING No, but there are other things bugging
 ENTER
 HOME
+DELAY 2000
 STRING me in life. And you're one of them!
 ENTER
 HOME
@@ -8092,9 +7881,6 @@ STRING I'm sorry about all that.
 ENTER
 HOME
 STRING (Ken walks back in again)
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING KEN:
@@ -8205,9 +7991,6 @@ HOME
 STRING (To lawyer)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING - You got the tweezers?
 ENTER
 HOME
@@ -8301,9 +8084,6 @@ HOME
 STRING From what I understand,
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING :
 ENTER
 HOME
@@ -8349,6 +8129,7 @@ HOME
 STRING (Vanessa tries to hold Adam back. He wants to sting Montgomery)
 ENTER
 HOME
+DELAY 2000
 STRING MONTGOMERY:
 ENTER
 HOME
@@ -8398,9 +8179,6 @@ STRING Adam, don't! It's what he wants!
 ENTER
 HOME
 STRING (Adam stings Montgomery in the butt and he starts thrashing around)
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING MONTGOMERY:
@@ -8499,9 +8277,6 @@ HOME
 STRING I will have order in this court. Order!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING :
 ENTER
 HOME
@@ -8598,9 +8373,6 @@ HOME
 STRING downstairs, in a tuna sandwich.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING :
 ENTER
 HOME
@@ -8658,6 +8430,7 @@ HOME
 STRING :
 ENTER
 HOME
+DELAY 2000
 STRING What were we thinking? Look at us. We're
 ENTER
 HOME
@@ -8695,9 +8468,6 @@ STRING Adam, they check in,
 ENTER
 HOME
 STRING but they don't check out!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING ADAM:
@@ -8796,9 +8566,6 @@ HOME
 STRING JUDGE BUMBLETON:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING Mr. Flayman.
 ENTER
 HOME
@@ -8895,9 +8662,6 @@ HOME
 STRING I move for a complete dismissal
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING of this entire case!
 ENTER
 HOME
@@ -8967,6 +8731,7 @@ HOME
 STRING What is that?
 ENTER
 HOME
+DELAY 2000
 STRING BARRY:
 ENTER
 HOME
@@ -8995,9 +8760,6 @@ STRING let alone a bee.
 ENTER
 HOME
 STRING (Montgomery accidentally fires it at the bees in the crowd and they faint
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING and cough)
@@ -9099,9 +8861,6 @@ HOME
 STRING The court finds in favor of the bees!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY:
 ENTER
 HOME
@@ -9198,9 +8957,6 @@ HOME
 STRING and I have no pants.
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING (Barry flies outside with the paparazzi and Adam and Vanessa stay back)
 ENTER
 HOME
@@ -9276,6 +9032,7 @@ HOME
 STRING of the bear as anything more
 ENTER
 HOME
+DELAY 2000
 STRING (We see a statue of a bear-shaped honey container being pulled down by
 ENTER
 HOME
@@ -9307,9 +9064,6 @@ STRING BARRY:
 ENTER
 HOME
 STRING (Looking through binoculars)
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING Wait for my signal.
@@ -9412,9 +9166,6 @@ STRING :
 ENTER
 HOME
 STRING Tap it.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING (Tons of honey is being pumped into the hive's storage)
@@ -9525,9 +9276,6 @@ HOME
 STRING (The Pollen Jocks fly back to the hive)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING (We get a time lapse of Central Park slowly wilting away as the bees all
 ENTER
 HOME
@@ -9585,6 +9333,7 @@ HOME
 STRING I heard your Uncle Carl was on his way
 ENTER
 HOME
+DELAY 2000
 STRING to San Antonio with a cricket.
 ENTER
 HOME
@@ -9622,9 +9371,6 @@ STRING new job. I wanted to do it really well.
 ENTER
 HOME
 STRING :
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING And now...
@@ -9726,9 +9472,6 @@ HOME
 STRING :
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING They're all wilting.
 ENTER
 HOME
@@ -9822,9 +9565,6 @@ HOME
 STRING So if there's no more pollination,
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING :
 ENTER
 HOME
@@ -9894,6 +9634,7 @@ HOME
 STRING :
 ENTER
 HOME
+DELAY 2000
 STRING Vanessa?
 ENTER
 HOME
@@ -9919,9 +9660,6 @@ STRING in Pasadena.
 ENTER
 HOME
 STRING :
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING They've moved it to this weekend
@@ -10020,9 +9758,6 @@ HOME
 STRING Flowers, bees, pollen!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING VANESSA:
 ENTER
 HOME
@@ -10119,9 +9854,6 @@ HOME
 STRING I don't want to hear it!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY:
 ENTER
 HOME
@@ -10203,6 +9935,7 @@ HOME
 STRING but flowers, floats and cotton candy.
 ENTER
 HOME
+DELAY 2000
 STRING :
 ENTER
 HOME
@@ -10213,9 +9946,6 @@ STRING BARRY:
 ENTER
 HOME
 STRING I have an idea.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING (Flash forward in time. Vanessa is about to board a plane which has all the
@@ -10314,9 +10044,6 @@ HOME
 STRING VANESSA:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING It goes under the mattresses.
 ENTER
 HOME
@@ -10411,9 +10138,6 @@ STRING VANESSA:
 ENTER
 HOME
 STRING - Yes.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING SECURITY GUARD:
@@ -10512,13 +10236,11 @@ HOME
 STRING Barry, these are cut flowers
 ENTER
 HOME
+DELAY 2000
 STRING with no water. They'll never make it.
 ENTER
 HOME
 STRING BARRY:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING I gotta get up there
@@ -10621,9 +10343,6 @@ STRING BARRY:
 ENTER
 HOME
 STRING - Wait a minute! I'm an attorney!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING HAL:
@@ -10731,9 +10450,6 @@ HOME
 STRING BARRY:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING - No!
 ENTER
 HOME
@@ -10821,13 +10537,11 @@ HOME
 STRING than a big metal bee.
 ENTER
 HOME
+DELAY 2000
 STRING :
 ENTER
 HOME
 STRING It's got giant wings, huge engines.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING VANESSA:
@@ -10932,9 +10646,6 @@ HOME
 STRING (The scene switches to the human news)
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING REPORTER:
 ENTER
 HOME
@@ -11026,9 +10737,6 @@ STRING BEE:
 ENTER
 HOME
 STRING - Got it.
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING BEE NEWS CREW:
@@ -11127,12 +10835,10 @@ HOME
 STRING BARRY:
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING Left, right, down, hover.
 ENTER
 HOME
+DELAY 2000
 STRING VANESSA:
 ENTER
 HOME
@@ -11227,9 +10933,6 @@ STRING (Barry sticks out his arms like an airplane and flys in front of Vanessa'
 ENTER
 HOME
 STRING face)
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING VANESSA:
@@ -11328,9 +11031,6 @@ HOME
 STRING - You snap out of it!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING VANESSA:
 ENTER
 HOME
@@ -11424,9 +11124,6 @@ HOME
 STRING All right, let's drop this tin can
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING on the blacktop.
 ENTER
 HOME
@@ -11442,6 +11139,7 @@ HOME
 STRING No, nothing. It's all cloudy.
 ENTER
 HOME
+DELAY 2000
 STRING :
 ENTER
 HOME
@@ -11521,9 +11219,6 @@ STRING BUD:
 ENTER
 HOME
 STRING - Get some lights on that!
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING (It is revealed that all the bees are organized into a giant pulsating
@@ -11622,9 +11317,6 @@ HOME
 STRING - I'm aiming at the flower!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY:
 ENTER
 HOME
@@ -11721,9 +11413,6 @@ HOME
 STRING You taught me how to fly!
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING BARRY:
 ENTER
 HOME
@@ -11751,6 +11440,7 @@ HOME
 STRING Did you see the giant flower?
 ENTER
 HOME
+DELAY 2000
 STRING BARRY:
 ENTER
 HOME
@@ -11818,9 +11508,6 @@ STRING If we're gonna survive as a species,
 ENTER
 HOME
 STRING this is our moment! What do you say?
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING :
@@ -11917,9 +11604,6 @@ STRING (Putting on his Krelman hat)
 ENTER
 HOME
 STRING If anybody needs
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING to make a call, now's the time.
@@ -12021,9 +11705,6 @@ HOME
 STRING He's a lawyer too?
 ENTER
 HOME
-STRING 
-ENTER
-HOME
 STRING MOOSEBLOOD:
 ENTER
 HOME
@@ -12060,6 +11741,7 @@ HOME
 STRING VANESSA:
 ENTER
 HOME
+DELAY 2000
 STRING You're a lifesaver, Barry.
 ENTER
 HOME
@@ -12118,9 +11800,6 @@ STRING - Beautiful day to fly.
 ENTER
 HOME
 STRING POLLEN JOCK:
-ENTER
-HOME
-STRING 
 ENTER
 HOME
 STRING - Sure is.
